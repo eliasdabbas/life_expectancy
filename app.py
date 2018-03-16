@@ -80,7 +80,7 @@ app.layout = html.Div([
     html.A('Life Expectancy at Birth in Years - 2017', href='https://www.cia.gov/library/publications/the-world-factbook/fields/2102.html'),
     html.Br(),
     html.Content('  Code: '),
-    html.A('github.com/eliasdabbas/population_growth', href='https://github.com/eliasdabbas/population_growth'), html.Br(), html.Br(),
+    html.A('github.com/eliasdabbas/life_expectancy', href='https://github.com/eliasdabbas/life_expectancy'), html.Br(), html.Br(),
     html.Content('This entry contains the average number of years to be lived by a group of people born in the same year, '
                  'if mortality at each age remains constant in the future. Life expectancy at birth is also a measure of '
                  'overall quality of life in a country and summarizes the mortality at all ages. It can also be thought of '
