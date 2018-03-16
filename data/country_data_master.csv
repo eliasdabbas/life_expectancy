@@ -1,0 +1,1622 @@
+country,lat_long,lat,lon,population_str,population,median_age_str,median_age_total,median_age_male,median_age_female,male_minus_female,age_dist_str,age_0-14_perc,age_15-24_perc,age_25-54_perc,age_55-64_perc,age_65+_perc,0-14_male,0-14_female,15-24_male,15-24_female,25-54_male,25-54_female,55-64_male,55-64_female,65+_male,65+_female,migration_str,migration,birth_rate,death_rate,pop_growth,map_ref,life_exp_total,life_exp_male,life_exp_female
+Afghanistan,"33 00 N, 65 00 E",33.0,65.0,"34,124,811 (July 2017 est.)",34124811,"total: 18.8 years
+male: 18.8 years
+female: 18.9 years (2017 est.)",18.8,18.8,18.9,-0.09999999999999787,"0-14 years: 40.92% (male 7,093,980/female 6,869,737)
+15-24 years: 22.22% (male 3,859,696/female 3,723,679)
+25-54 years: 30.35% (male 5,273,969/female 5,082,972)
+55-64 years: 3.92% (male 659,635/female 678,942)
+65 years and over: 2.59% (male 407,437/female 474,764) (2017 est.)",40.92,22.22,30.35,3.92,2.59,7093980,6869737,3859696,3723679,5273969,5082972,659635,678942,407437,474764,"-0.9 migrant(s)/1,000 population (2017 est.)",-0.9,37.9,13.4,24.5,Asia,51.7,50.3,53.2
+Albania,"41 00 N, 20 00 E",41.0,20.0,"3,047,987 (July 2017 est.)",3047987,"total: 32.9 years
+male: 31.6 years
+female: 34.3 years (2017 est.)",32.9,31.6,34.3,-2.6999999999999957,"0-14 years: 18.05% (male 290,572/female 259,544)
+15-24 years: 17.47% (male 275,969/female 256,416)
+25-54 years: 41.06% (male 597,421/female 653,965)
+55-64 years: 11.54% (male 173,105/female 178,575)
+65 years and over: 11.89% (male 169,681/female 192,739) (2017 est.)",18.05,17.47,41.06,11.54,11.89,290572,259544,275969,256416,597421,653965,173105,178575,169681,192739,"-3.3 migrant(s)/1,000 population (2017 est.)",-3.3,13.2,6.8,6.4,Europe,78.5,75.8,81.4
+Algeria,"28 00 N, 3 00 E",28.0,3.0,"40,969,443 (July 2017 est.)",40969443,"total: 28.1 years
+male: 27.8 years
+female: 28.4 years (2017 est.)",28.1,27.8,28.4,-0.5999999999999979,"0-14 years: 29.31% (male 6,148,568/female 5,858,922)
+15-24 years: 15.3% (male 3,208,185/female 3,061,179)
+25-54 years: 42.93% (male 8,906,160/female 8,682,894)
+55-64 years: 6.81% (male 1,410,298/female 1,378,282)
+65 years and over: 5.65% (male 1,079,218/female 1,235,737) (2017 est.)",29.31,15.3,42.93,6.81,5.65,6148568,5858922,3208185,3061179,8906160,8682894,1410298,1378282,1079218,1235737,"-0.9 migrant(s)/1,000 population (2017 est.)",-0.9,22.2,4.3,17.9,Africa,77.0,75.6,78.4
+American Samoa,"14 20 S, 170 00 W",-14.333333333333336,-170.0,"51,504 (July 2017 est.)",51504,"total: 25.5 years
+male: 25.1 years
+female: 26 years (2017 est.)",25.5,25.1,26.0,-0.8999999999999986,"0-14 years: 30.28% (male 8,017/female 7,580)
+15-24 years: 18.79% (male 4,846/female 4,831)
+25-54 years: 36.38% (male 9,274/female 9,463)
+55-64 years: 8.58% (male 2,186/female 2,232)
+65 years and over: 5.97% (male 1,452/female 1,623) (2017 est.)",30.28,18.79,36.38,8.58,5.97,8017,7580,4846,4831,9274,9463,2186,2232,1452,1623,"-26.7 migrant(s)/1,000 population (2017 est.)",-26.7,19.6,5.9,13.7,Oceania,73.4,71.3,75.6
+Andorra,"42 30 N, 1 30 E",42.5,1.5,"76,965 (July 2017 est.)",76965,"total: 44.3 years
+male: 44.4 years
+female: 44.1 years (2017 est.)",44.3,44.4,44.1,0.2999999999999972,"0-14 years: 14.4% (male 6,340/female 6,003)
+15-24 years: 9.64% (male 4,289/female 3,976)
+25-54 years: 46.18% (male 20,233/female 19,348)
+55-64 years: 14.16% (male 6,458/female 5,677)
+65 years and over: 15.61% (male 6,788/female 6,590) (2017 est.)",14.4,9.64,46.18,14.16,15.61,6340,6003,4289,3976,20233,19348,6458,5677,6788,6590,"0 migrant(s)/1,000 population (2017 est.)",0.0,7.5,7.3,0.20000000000000007,Europe,82.9,80.7,85.2
+Angola,"12 30 S, 18 30 E",-12.5,18.5,"29,310,273 (July 2017 est.)
+note: Angola's national statistical agency projects the country's 2017 population to be 28.4 million",29310273,"total: 15.9 years
+male: 15.4 years
+female: 16.3 years (2017 est.)",15.9,15.4,16.3,-0.9000000000000004,"0-14 years: 48.12% (male 7,005,891/female 7,097,392)
+15-24 years: 18.25% (male 2,593,355/female 2,756,367)
+25-54 years: 28.03% (male 3,921,046/female 4,293,307)
+55-64 years: 3.26% (male 438,268/female 517,690)
+65 years and over: 2.34% (male 290,247/female 396,710) (2017 est.)",48.12,18.25,28.03,3.26,2.34,7005891,7097392,2593355,2756367,3921046,4293307,438268,517690,290247,396710,"0.2 migrant(s)/1,000 population (2017 est.)",0.2,44.2,9.2,35.0,Africa,60.2,58.2,62.3
+Anguilla,"18 15 N, 63 10 W",18.25,-63.16666666666666,"17,087 (July 2017 est.)",17087,"total: 34.8 years
+male: 32.9 years
+female: 36.7 years (2017 est.)",34.8,32.9,36.7,-3.8000000000000043,"0-14 years: 22.21% (male 1,936/female 1,859)
+15-24 years: 14.08% (male 1,205/female 1,200)
+25-54 years: 43.82% (male 3,363/female 4,124)
+55-64 years: 11.06% (male 880/female 1,010)
+65 years and over: 8.84% (male 750/female 760) (2017 est.)",22.21,14.08,43.82,11.06,8.84,1936,1859,1205,1200,3363,4124,880,1010,750,760,"11.7 migrant(s)/1,000 population (2017 est.)",11.7,12.5,4.6,7.9,Central America and the Caribbean,81.5,78.9,84.2
+Antigua and Barbuda,"17 03 N, 61 48 W",17.05,-61.8,"94,731 (July 2017 est.)",94731,"total: 31.9 years
+male: 30 years
+female: 33.5 years (2017 est.)",31.9,30.0,33.5,-3.5,"0-14 years: 23.09% (male 11,116/female 10,760)
+15-24 years: 16.83% (male 7,939/female 8,008)
+25-54 years: 42.19% (male 18,268/female 21,695)
+55-64 years: 9.83% (male 4,179/female 5,130)
+65 years and over: 8.06% (male 3,279/female 4,357) (2017 est.)",23.09,16.83,42.19,9.83,8.06,11116,10760,7939,8008,18268,21695,4179,5130,3279,4357,"2.2 migrant(s)/1,000 population (2017 est.)",2.2,15.7,5.7,10.0,Central America and the Caribbean,76.7,74.6,79.0
+Argentina,"34 00 S, 64 00 W",-34.0,-64.0,"44,293,293 (July 2017 est.)",44293293,"total: 31.7 years
+male: 30.5 years
+female: 32.9 years (2017 est.)",31.7,30.5,32.9,-2.3999999999999986,"0-14 years: 24.59% (male 5,612,766/female 5,278,857)
+15-24 years: 15.28% (male 3,460,276/female 3,307,227)
+25-54 years: 39.38% (male 8,707,818/female 8,733,370)
+55-64 years: 9.13% (male 1,963,923/female 2,081,796)
+65 years and over: 11.62% (male 2,159,811/female 2,987,449) (2017 est.)",24.59,15.28,39.38,9.13,11.62,5612766,5278857,3460276,3307227,8707818,8733370,1963923,2081796,2159811,2987449,"-0.1 migrant(s)/1,000 population (2017 est.)",-0.1,16.7,7.5,9.2,South America,77.3,74.2,80.6
+Armenia,"40 00 N, 45 00 E",40.0,45.0,"3,045,191 (July 2017 est.)",3045191,"total: 35.1 years
+male: 33.3 years
+female: 36.9 years (2017 est.)",35.1,33.3,36.9,-3.6000000000000014,"0-14 years: 18.94% (male 306,322/female 270,388)
+15-24 years: 12.89% (male 203,358/female 189,092)
+25-54 years: 43.43% (male 640,881/female 681,784)
+55-64 years: 13.41% (male 187,178/female 221,071)
+65 years and over: 11.33% (male 138,458/female 206,659) (2017 est.)",18.94,12.89,43.43,13.41,11.33,306322,270388,203358,189092,640881,681784,187178,221071,138458,206659,"-5.7 migrant(s)/1,000 population (2017 est.)",-5.7,12.9,9.4,3.5,Asia,74.9,71.6,78.5
+Aruba,"12 30 N, 69 58 W",12.5,-69.96666666666667,"115,120 (July 2017 est.)",115120,"total: 39.3 years
+male: 37.5 years
+female: 41.1 years (2017 est.)",39.3,37.5,41.1,-3.6000000000000014,"0-14 years: 17.64% (male 10,189/female 10,115)
+15-24 years: 12.78% (male 7,405/female 7,307)
+25-54 years: 41.72% (male 23,117/female 24,906)
+55-64 years: 14.28% (male 7,664/female 8,773)
+65 years and over: 13.59% (male 6,132/female 9,512) (2017 est.)",17.64,12.78,41.72,14.28,13.59,10189,10115,7405,7307,23117,24906,7664,8773,6132,9512,"8.7 migrant(s)/1,000 population (2017 est.)",8.7,12.4,8.4,4.0,Central America and the Caribbean,76.9,73.9,80.1
+Australia,"27 00 S, 133 00 E",-27.0,133.0,"23,232,413 (July 2017 est.)",23232413,"total: 38.7 years
+male: 37.9 years
+female: 39.5 years (2017 est.)",38.7,37.9,39.5,-1.6000000000000014,"0-14 years: 17.8% (male 2,122,139/female 2,012,670)
+15-24 years: 12.79% (male 1,524,368/female 1,446,663)
+25-54 years: 41.45% (male 4,903,130/female 4,725,976)
+55-64 years: 11.83% (male 1,363,331/female 1,384,036)
+65 years and over: 16.14% (male 1,736,951/female 2,013,149) (2017 est.)",17.8,12.79,41.45,11.83,16.14,2122139,2012670,1524368,1446663,4903130,4725976,1363331,1384036,1736951,2013149,"5.5 migrant(s)/1,000 population (2017 est.)",5.5,12.1,7.3,4.8,Oceania,82.3,79.8,84.9
+Austria,"47 20 N, 13 20 E",47.33333333333334,13.333333333333336,"8,754,413 (July 2017 est.)",8754413,"total: 44 years
+male: 42.8 years
+female: 45.1 years (2017 est.)",44.0,42.8,45.1,-2.3000000000000043,"0-14 years: 14.01% (male 628,205/female 598,519)
+15-24 years: 11.07% (male 494,016/female 475,500)
+25-54 years: 42.42% (male 1,856,532/female 1,856,937)
+55-64 years: 13.23% (male 574,570/female 584,022)
+65 years and over: 19.26% (male 731,126/female 954,986) (2017 est.)",14.01,11.07,42.42,13.23,19.26,628205,598519,494016,475500,1856532,1856937,574570,584022,731126,954986,"4.8 migrant(s)/1,000 population (2017 est.)",4.8,9.5,9.6,-0.09999999999999963,Europe,81.6,78.9,84.4
+Azerbaijan,"40 30 N, 47 30 E",40.5,47.5,"9,961,396 (July 2017 est.)",9961396,"total: 31.3 years
+male: 29.8 years
+female: 33 years (2017 est.)",31.3,29.8,33.0,-3.2,"0-14 years: 22.95% (male 1,220,356/female 1,065,514)
+15-24 years: 14.84% (male 775,422/female 703,027)
+25-54 years: 45.39% (male 2,219,613/female 2,302,356)
+55-64 years: 10.17% (male 467,830/female 545,505)
+65 years and over: 6.64% (male 253,679/female 408,094) (2017 est.)",22.95,14.84,45.39,10.17,6.64,1220356,1065514,775422,703027,2219613,2302356,467830,545505,253679,408094,"0 migrant(s)/1,000 population (2017 est.)",0.0,15.8,7.1,8.700000000000001,Asia,72.8,69.7,76.1
+"Bahamas, The","24 15 N, 76 00 W",24.25,-76.0,"329,988
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",329988,"total: 32 years
+male: 30.9 years
+female: 33.2 years (2017 est.)",32.0,30.9,33.2,-2.3000000000000043,"0-14 years: 22.55% (male 37,760/female 36,667)
+15-24 years: 16.4% (male 27,415/female 26,703)
+25-54 years: 44.14% (male 73,016/female 72,626)
+55-64 years: 9.16% (male 13,647/female 16,567)
+65 years and over: 7.75% (male 9,843/female 15,744) (2017 est.)",22.55,16.4,44.14,9.16,7.75,37760,36667,27415,26703,73016,72626,13647,16567,9843,15744,"0 migrant(s)/1,000 population (2017 est.)",0.0,15.3,7.2,8.100000000000001,Central America and the Caribbean,72.6,70.2,75.1
+Bahrain,"26 00 N, 50 33 E",26.0,50.55,"1,410,942 (July 2017 est.)
+note: immigrants make up approximately 48% of the total population, according to UN data (2017)",1410942,"total: 32.3 years
+male: 33.8 years
+female: 29.5 years (2017 est.)",32.3,33.8,29.5,4.299999999999997,"0-14 years: 19.08% (male 136,669/female 132,493)
+15-24 years: 15.65% (male 124,906/female 95,881)
+25-54 years: 56.04% (male 516,064/female 274,604)
+55-64 years: 6.28% (male 56,671/female 31,983)
+65 years and over: 2.95% (male 20,656/female 21,015) (2017 est.)",19.08,15.65,56.04,6.28,2.95,136669,132493,124906,95881,516064,274604,56671,31983,20656,21015,"12.1 migrant(s)/1,000 population (2017 est.)",12.1,13.3,2.8,10.5,Middle East,79.0,76.8,81.3
+Bangladesh,"24 00 N, 90 00 E",24.0,90.0,"157,826,578 (July 2017 est.)",157826578,"total: 26.7 years
+male: 26 years
+female: 27.3 years (2017 est.)",26.7,26.0,27.3,-1.3000000000000007,"0-14 years: 27.76% (male 22,283,780/female 21,521,977)
+15-24 years: 19.36% (male 15,309,543/female 15,241,971)
+25-54 years: 39.73% (male 30,094,014/female 32,614,286)
+55-64 years: 6.93% (male 5,405,900/female 5,527,330)
+65 years and over: 6.23% (male 4,666,033/female 5,161,744) (2017 est.)",27.76,19.36,39.73,6.93,6.23,22283780,21521977,15309543,15241971,30094014,32614286,5405900,5527330,4666033,5161744,"-3.1 migrant(s)/1,000 population (2017 est.)",-3.1,18.8,5.4,13.4,Asia,73.4,71.3,75.6
+Barbados,"13 10 N, 59 32 W",13.166666666666664,-59.53333333333333,"292,336 (July 2017 est.)",292336,"total: 38.6 years
+male: 37.5 years
+female: 39.8 years (2017 est.)",38.6,37.5,39.8,-2.299999999999997,"0-14 years: 17.97% (male 26,256/female 26,266)
+15-24 years: 12.74% (male 18,504/female 18,732)
+25-54 years: 44.06% (male 64,198/female 64,594)
+55-64 years: 13.43% (male 18,497/female 20,770)
+65 years and over: 11.81% (male 13,927/female 20,592) (2017 est.)",17.97,12.74,44.06,13.43,11.81,26256,26266,18504,18732,64198,64594,18497,20770,13927,20592,"-0.3 migrant(s)/1,000 population (2017 est.)",-0.3,11.7,8.6,3.1,Central America and the Caribbean,75.5,73.2,77.9
+Belarus,"53 00 N, 28 00 E",53.0,28.0,"9,549,747 (July 2017 est.)",9549747,"total: 40 years
+male: 37.1 years
+female: 43.1 years (2017 est.)",40.0,37.1,43.1,-6.0,"0-14 years: 15.78% (male 774,995/female 732,191)
+15-24 years: 10.29% (male 505,420/female 477,123)
+25-54 years: 44.76% (male 2,104,170/female 2,170,515)
+55-64 years: 14.21% (male 599,630/female 757,744)
+65 years and over: 14.95% (male 457,766/female 970,193) (2017 est.)",15.78,10.29,44.76,14.21,14.95,774995,732191,505420,477123,2104170,2170515,599630,757744,457766,970193,"0.7 migrant(s)/1,000 population (2017 est.)",0.7,10.3,13.2,-2.8999999999999986,Europe,73.0,67.5,78.8
+Belgium,"50 50 N, 4 00 E",50.83333333333334,4.0,"11,491,346 (July 2017 est.)",11491346,"total: 41.4 years
+male: 40.2 years
+female: 42.7 years (2017 est.)",41.4,40.2,42.7,-2.5,"0-14 years: 17.16% (male 1,010,201/female 961,994)
+15-24 years: 11.34% (male 665,483/female 637,700)
+25-54 years: 40.05% (male 2,320,845/female 2,281,411)
+55-64 years: 12.86% (male 732,062/female 746,212)
+65 years and over: 18.58% (male 929,594/female 1,205,844) (2017 est.)",17.16,11.34,40.05,12.86,18.58,1010201,961994,665483,637700,2320845,2281411,732062,746212,929594,1205844,"5.4 migrant(s)/1,000 population (2017 est.)",5.4,11.3,9.7,1.6000000000000014,Europe,81.1,78.5,83.8
+Belize,"17 15 N, 88 45 W",17.25,-88.75,"360,346 (July 2017 est.)",360346,"total: 22.7 years
+male: 22.5 years
+female: 22.9 years (2017 est.)",22.7,22.5,22.9,-0.3999999999999986,"0-14 years: 33.95% (male 62,454/female 59,896)
+15-24 years: 20.55% (male 37,730/female 36,339)
+25-54 years: 36.62% (male 66,880/female 65,082)
+55-64 years: 4.99% (male 8,834/female 9,130)
+65 years and over: 3.89% (male 6,562/female 7,439) (2017 est.)",33.95,20.55,36.62,4.99,3.89,62454,59896,37730,36339,66880,65082,8834,9130,6562,7439,"0 migrant(s)/1,000 population (2017 est.)",0.0,24.0,6.0,18.0,Central America and the Caribbean,68.9,67.3,70.6
+Benin,"9 30 N, 2 15 E",9.5,2.25,"11,038,805
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",11038805,"total: 18.2 years
+male: 17.9 years
+female: 18.6 years (2017 est.)",18.2,17.9,18.6,-0.7000000000000028,"0-14 years: 42.65% (male 2,402,029/female 2,305,622)
+15-24 years: 20.44% (male 1,148,204/female 1,108,342)
+25-54 years: 30.44% (male 1,699,623/female 1,660,517)
+55-64 years: 3.61% (male 174,633/female 223,398)
+65 years and over: 2.87% (male 124,708/female 191,729) (2017 est.)",42.65,20.44,30.44,3.61,2.87,2402029,2305622,1148204,1108342,1699623,1660517,174633,223398,124708,191729,"0 migrant(s)/1,000 population (2017 est.)",0.0,35.0,7.9,27.1,Africa,62.3,60.9,63.8
+Bermuda,"32 20 N, 64 45 W",32.333333333333336,-64.75,"70,864 (July 2017 est.)",70864,"total: 43.4 years
+male: 41.5 years
+female: 45.3 years (2017 est.)",43.4,41.5,45.3,-3.799999999999997,"0-14 years: 17.04% (male 6,104/female 5,974)
+15-24 years: 12% (male 4,300/female 4,207)
+25-54 years: 37.24% (male 13,230/female 13,163)
+55-64 years: 15.73% (male 5,244/female 5,902)
+65 years and over: 17.98% (male 5,395/female 7,345) (2017 est.)",17.04,12.0,37.24,15.73,17.98,6104,5974,4300,4207,13230,13163,5244,5902,5395,7345,"1.8 migrant(s)/1,000 population (2017 est.)",1.8,11.3,8.6,2.700000000000001,North America,81.4,78.2,84.6
+Bhutan,"27 30 N, 90 30 E",27.5,90.5,"758,288 (July 2017 est.)",758288,"total: 27.6 years
+male: 28.2 years
+female: 27.1 years (2017 est.)",27.6,28.2,27.1,1.099999999999998,"0-14 years: 25.8% (male 99,977/female 95,652)
+15-24 years: 18.81% (male 72,634/female 70,018)
+25-54 years: 43.07% (male 173,310/female 153,314)
+55-64 years: 6.03% (male 24,482/female 21,206)
+65 years and over: 6.29% (male 24,874/female 22,821) (2017 est.)",25.8,18.81,43.07,6.03,6.29,99977,95652,72634,70018,173310,153314,24482,21206,24874,22821,"0 migrant(s)/1,000 population (2017 est.)",0.0,17.3,6.5,10.8,Asia,70.6,69.6,71.7
+Bolivia,"17 00 S, 65 00 W",-17.0,-65.0,"11,138,234 (July 2017 est.)",11138234,"total: 24.3 years
+male: 23.6 years
+female: 25 years (2017 est.)",24.3,23.6,25.0,-1.3999999999999986,"0-14 years: 31.85% (male 1,807,735/female 1,739,763)
+15-24 years: 19.46% (male 1,098,097/female 1,069,950)
+25-54 years: 37.48% (male 2,041,866/female 2,133,065)
+55-64 years: 5.9% (male 303,409/female 353,598)
+65 years and over: 5.3% (male 260,424/female 330,327) (2017 est.)",31.85,19.46,37.48,5.9,5.3,1807735,1739763,1098097,1069950,2041866,2133065,303409,353598,260424,330327,"-0.5 migrant(s)/1,000 population (2017 est.)",-0.5,22.0,6.4,15.6,South America,69.5,66.7,72.4
+Bosnia and Herzegovina,"44 00 N, 18 00 E",44.0,18.0,"3,856,181 (July 2017 est.)",3856181,"total: 42.1 years
+male: 40.5 years
+female: 43.5 years (2017 est.)",42.1,40.5,43.5,-3.0,"0-14 years: 13.29% (male 264,718/female 247,587)
+15-24 years: 11.58% (male 230,495/female 216,107)
+25-54 years: 45.88% (male 889,686/female 879,514)
+55-64 years: 14.83% (male 275,550/female 296,236)
+65 years and over: 14.43% (male 218,823/female 337,465) (2017 est.)",13.29,11.58,45.88,14.83,14.43,264718,247587,230495,216107,889686,879514,275550,296236,218823,337465,"-0.4 migrant(s)/1,000 population (2017 est.)",-0.4,8.8,10.0,-1.1999999999999993,Europe,76.9,73.9,80.2
+Botswana,"22 00 S, 24 00 E",-22.0,24.0,"2,214,858
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",2214858,"total: 24.5 years
+male: 23.5 years
+female: 25.6 years (2017 est.)",24.5,23.5,25.6,-2.1000000000000014,"0-14 years: 31.95% (male 357,003/female 350,657)
+15-24 years: 18.91% (male 207,209/female 211,629)
+25-54 years: 38.45% (male 401,082/female 450,437)
+55-64 years: 5.46% (male 51,195/female 69,835)
+65 years and over: 5.23% (male 50,206/female 65,605) (2017 est.)",31.95,18.91,38.45,5.46,5.23,357003,350657,207209,211629,401082,450437,51195,69835,50206,65605,"3 migrant(s)/1,000 population (2017 est.)",3.0,22.1,9.6,12.500000000000002,Africa,63.3,61.2,65.5
+Brazil,"10 00 S, 55 00 W",-10.0,-55.0,"207,353,391 (July 2017 est.)",207353391,"total: 32 years
+male: 31.1 years
+female: 32.8 years (2017 est.)",32.0,31.1,32.8,-1.6999999999999955,"0-14 years: 22.33% (male 23,599,867/female 22,696,756)
+15-24 years: 16.36% (male 17,212,048/female 16,721,295)
+25-54 years: 43.86% (male 45,114,076/female 45,836,147)
+55-64 years: 9.12% (male 8,931,065/female 9,974,723)
+65 years and over: 8.33% (male 7,356,838/female 9,910,576) (2017 est.)",22.33,16.36,43.86,9.12,8.33,23599867,22696756,17212048,16721295,45114076,45836147,8931065,9974723,7356838,9910576,"-0.1 migrant(s)/1,000 population (2017 est.)",-0.1,14.1,6.7,7.399999999999999,South America,74.0,70.5,77.7
+British Virgin Islands,"18 30 N, 64 30 W",18.5,-64.5,"35,015 (July 2017 est.)",35015,"total: 36.5 years
+male: 36.3 years
+female: 36.6 years (2017 est.)",36.5,36.3,36.6,-0.30000000000000426,"0-14 years: 16.7% (male 2,877/female 2,971)
+15-24 years: 13.37% (male 2,243/female 2,437)
+25-54 years: 49.37% (male 8,116/female 9,170)
+55-64 years: 11.6% (male 1,975/female 2,086)
+65 years and over: 8.97% (male 1,522/female 1,618) (2017 est.)",16.7,13.37,49.37,11.6,8.97,2877,2971,2243,2437,8116,9170,1975,2086,1522,1618,"16.5 migrant(s)/1,000 population (2017 est.)",16.5,11.1,5.1,6.0,Central America and the Caribbean,78.8,77.4,80.3
+Brunei,"4 30 N, 114 40 E",4.5,114.66666666666669,"443,593 (July 2017 est.)",443593,"total: 30.2 years
+male: 29.7 years
+female: 30.7 years (2017 est.)",30.2,29.7,30.7,-1.0,"0-14 years: 23.12% (male 52,862/female 49,717)
+15-24 years: 17.05% (male 37,637/female 38,005)
+25-54 years: 46.75% (male 99,203/female 108,198)
+55-64 years: 8.23% (male 18,537/female 17,974)
+65 years and over: 4.84% (male 10,440/female 11,020) (2017 est.)",23.12,17.05,46.75,8.23,4.84,52862,49717,37637,38005,99203,108198,18537,17974,10440,11020,"2.4 migrant(s)/1,000 population (2017 est.)",2.4,17.0,3.6,13.4,Southeast Asia,77.3,75.0,79.8
+Bulgaria,"43 00 N, 25 00 E",43.0,25.0,"7,101,510 (July 2017 est.)",7101510,"total: 42.7 years
+male: 40.9 years
+female: 44.7 years (2017 est.)",42.7,40.9,44.7,-3.8000000000000043,"0-14 years: 14.58% (male 532,924/female 502,277)
+15-24 years: 9.58% (male 354,872/female 325,538)
+25-54 years: 43.21% (male 1,576,980/female 1,491,489)
+55-64 years: 13.35% (male 445,412/female 502,924)
+65 years and over: 19.28% (male 554,486/female 814,608) (2017 est.)",14.58,9.58,43.21,13.35,19.28,532924,502277,354872,325538,1576980,1491489,445412,502924,554486,814608,"-0.3 migrant(s)/1,000 population (2017 est.)",-0.3,8.7,14.5,-5.8000000000000025,Europe,74.7,71.4,78.2
+Burkina Faso,"13 00 N, 2 00 W",13.0,-2.0,"20,107,509
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",20107509,"total: 17.3 years
+male: 17.1 years
+female: 17.4 years (2017 est.)",17.3,17.1,17.4,-0.2999999999999972,"0-14 years: 44.88% (male 4,519,960/female 4,503,937)
+15-24 years: 20.07% (male 2,024,501/female 2,012,053)
+25-54 years: 29.42% (male 2,999,941/female 2,915,264)
+55-64 years: 3.2% (male 284,374/female 359,159)
+65 years and over: 2.43% (male 181,996/female 306,324) (2017 est.)",44.88,20.07,29.42,3.2,2.43,4519960,4503937,2024501,2012053,2999941,2915264,284374,359159,181996,306324,"0 migrant(s)/1,000 population (2017 est.)",0.0,41.2,11.2,30.000000000000004,Africa,55.9,53.8,58.0
+Burma,"22 00 N, 98 00 E",22.0,98.0,"55,123,814
+note: estimates for this country take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",55123814,"total: 28.2 years
+male: 27.4 years
+female: 29 years (2017 est.)",28.2,27.4,29.0,-1.6000000000000014,"0-14 years: 26.85% (male 7,567,976/female 7,233,577)
+15-24 years: 17.75% (male 4,917,290/female 4,865,264)
+25-54 years: 42.36% (male 11,426,913/female 11,922,728)
+55-64 years: 7.52% (male 1,930,253/female 2,213,263)
+65 years and over: 5.53% (male 1,327,811/female 1,718,739) (2017 est.)",26.85,17.75,42.36,7.52,5.53,7567976,7233577,4917290,4865264,11426913,11922728,1930253,2213263,1327811,1718739,"-1.5 migrant(s)/1,000 population (2017 est.)",-1.5,18.1,7.4,10.7,Southeast Asia,68.2,66.6,69.9
+Burundi,"3 30 S, 30 00 E",-3.5,30.0,"11,466,756
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",11466756,"total: 17 years
+male: 16.8 years
+female: 17.3 years (2017 est.)",17.0,16.8,17.3,-0.5,"0-14 years: 45.57% (male 2,628,767/female 2,596,719)
+15-24 years: 19.15% (male 1,095,213/female 1,100,314)
+25-54 years: 28.74% (male 1,643,319/female 1,651,679)
+55-64 years: 3.92% (male 212,074/female 237,324)
+65 years and over: 2.63% (male 129,482/female 171,865) (2017 est.)",45.57,19.15,28.74,3.92,2.63,2628767,2596719,1095213,1100314,1643319,1651679,212074,237324,129482,171865,"0 migrant(s)/1,000 population (2017 est.)",0.0,41.3,8.8,32.5,Africa,60.9,59.2,62.7
+Cabo Verde,"16 00 N, 24 00 W",16.0,-24.0,"560,899 (July 2017 est.)",560899,"total: 25.4 years
+male: 24.6 years
+female: 26.2 years (2017 est.)",25.4,24.6,26.2,-1.5999999999999979,"0-14 years: 29.13% (male 82,157/female 81,227)
+15-24 years: 20.11% (male 56,401/female 56,391)
+25-54 years: 39.64% (male 108,081/female 114,234)
+55-64 years: 5.94% (male 14,547/female 18,761)
+65 years and over: 5.19% (male 11,012/female 18,088) (2017 est.)",29.13,20.11,39.64,5.94,5.19,82157,81227,56401,56391,108081,114234,14547,18761,11012,18088,"-0.6 migrant(s)/1,000 population (2017 est.)",-0.6,20.0,6.0,14.0,Africa,72.4,70.1,74.8
+Cambodia,"13 00 N, 105 00 E",13.0,105.0,"16,204,486
+note: estimates for this country take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",16204486,"total: 25.3 years
+male: 24.6 years
+female: 26 years (2017 est.)",25.3,24.6,26.0,-1.3999999999999986,"0-14 years: 31.01% (male 2,537,753/female 2,487,633)
+15-24 years: 18.36% (male 1,471,965/female 1,503,977)
+25-54 years: 40.68% (male 3,229,901/female 3,361,475)
+55-64 years: 5.69% (male 374,663/female 547,971)
+65 years and over: 4.25% (male 258,584/female 430,564) (2017 est.)",31.01,18.36,40.68,5.69,4.25,2537753,2487633,1471965,1503977,3229901,3361475,374663,547971,258584,430564,"-0.3 migrant(s)/1,000 population (2017 est.)",-0.3,23.0,7.5,15.5,Southeast Asia,64.9,62.4,67.5
+Cameroon,"6 00 N, 12 00 E",6.0,12.0,"24,994,885
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",24994885,"total: 18.5 years
+male: 18.4 years
+female: 18.7 years (2017 est.)",18.5,18.4,18.7,-0.3000000000000007,"0-14 years: 42.39% (male 5,337,879/female 5,257,026)
+15-24 years: 19.56% (male 2,456,061/female 2,432,500)
+25-54 years: 30.87% (male 3,880,906/female 3,835,107)
+55-64 years: 3.98% (male 485,059/female 509,649)
+65 years and over: 3.2% (male 372,415/female 428,283) (2017 est.)",42.39,19.56,30.87,3.98,3.2,5337879,5257026,2456061,2432500,3880906,3835107,485059,509649,372415,428283,"-0.1 migrant(s)/1,000 population (2017 est.)",-0.1,35.4,9.6,25.8,Africa,59.0,57.6,60.4
+Canada,"60 00 N, 95 00 W",60.0,-95.0,"35,623,680 (July 2017 est.)",35623680,"total: 42.2 years
+male: 40.9 years
+female: 43.5 years (2017 est.)",42.2,40.9,43.5,-2.6000000000000014,"0-14 years: 15.44% (male 2,819,279/female 2,680,024)
+15-24 years: 11.85% (male 2,171,703/female 2,048,546)
+25-54 years: 39.99% (male 7,227,145/female 7,020,156)
+55-64 years: 14.1% (male 2,492,120/female 2,529,652)
+65 years and over: 18.63% (male 2,958,721/female 3,676,334) (2017 est.)",15.44,11.85,39.99,14.1,18.63,2819279,2680024,2171703,2048546,7227145,7020156,2492120,2529652,2958721,3676334,"5.7 migrant(s)/1,000 population (2017 est.)",5.7,10.3,8.7,1.6000000000000014,North America,81.9,79.3,84.7
+Cayman Islands,"19 30 N, 80 30 W",19.5,-80.5,"58,441
+note: most of the population lives on Grand Cayman (July 2017 est.)",58441,"total: 40 years
+male: 39.3 years
+female: 40.7 years (2017 est.)",40.0,39.3,40.7,-1.4000000000000057,"0-14 years: 18% (male 5,298/female 5,224)
+15-24 years: 12.41% (male 3,601/female 3,654)
+25-54 years: 42.52% (male 12,123/female 12,727)
+55-64 years: 14.47% (male 4,030/female 4,427)
+65 years and over: 12.59% (male 3,425/female 3,932) (2017 est.)",18.0,12.41,42.52,14.47,12.59,5298,5224,3601,3654,12123,12727,4030,4427,3425,3932,"13.8 migrant(s)/1,000 population
+note: major destination for Cubans trying to migrate to the US (2017 est.)",13.8,12.0,5.8,6.2,Central America and the Caribbean,81.3,78.6,84.1
+Central African Republic,"7 00 N, 21 00 E",7.0,21.0,"5,625,118
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",5625118,"total: 19.7 years
+male: 19.4 years
+female: 20 years (2017 est.)",19.7,19.4,20.0,-0.6000000000000014,"0-14 years: 40.09% (male 1,133,361/female 1,121,640)
+15-24 years: 19.94% (male 563,730/female 557,676)
+25-54 years: 32.45% (male 913,363/female 912,096)
+55-64 years: 4.1% (male 106,651/female 123,839)
+65 years and over: 3.43% (male 74,834/female 117,928) (2017 est.)",40.09,19.94,32.45,4.1,3.43,1133361,1121640,563730,557676,913363,912096,106651,123839,74834,117928,"0 migrant(s)/1,000 population (2017 est.)",0.0,34.3,13.2,21.1,Africa,52.8,51.4,54.2
+Chad,"15 00 N, 19 00 E",15.0,19.0,"12,075,985 (July 2017 est.)",12075985,"total: 17.8 years
+male: 16.8 years
+female: 18.8 years (2017 est.)",17.8,16.8,18.8,-2.0,"0-14 years: 43.02% (male 2,634,817/female 2,560,790)
+15-24 years: 21.46% (male 1,267,944/female 1,324,115)
+25-54 years: 28.62% (male 1,574,782/female 1,881,183)
+55-64 years: 3.88% (male 206,627/female 261,586)
+65 years and over: 3.02% (male 150,364/female 213,777) (2017 est.)",43.02,21.46,28.62,3.88,3.02,2634817,2560790,1267944,1324115,1574782,1881183,206627,261586,150364,213777,"-3.2 migrant(s)/1,000 population (2017 est.)",-3.2,35.6,13.8,21.8,Africa,50.6,49.4,51.9
+Chile,"30 00 S, 71 00 W",-30.0,-71.0,"17,789,267 (July 2017 est.)",17789267,"total: 34.4 years
+male: 33.2 years
+female: 35.6 years (2017 est.)",34.4,33.2,35.6,-2.3999999999999986,"0-14 years: 20.11% (male 1,825,254/female 1,751,735)
+15-24 years: 15.04% (male 1,364,831/female 1,311,216)
+25-54 years: 43.08% (male 3,830,538/female 3,832,989)
+55-64 years: 10.96% (male 918,559/female 1,031,153)
+65 years and over: 10.81% (male 805,880/female 1,117,112) (2017 est.)",20.11,15.04,43.08,10.96,10.81,1825254,1751735,1364831,1311216,3830538,3832989,918559,1031153,805880,1117112,"0.3 migrant(s)/1,000 population (2017 est.)",0.3,13.6,6.2,7.399999999999999,South America,78.9,75.9,82.1
+China,"35 00 N, 105 00 E",35.0,105.0,"1,379,302,771 (July 2017 est.)",1379302771,"total: 37.4 years
+male: 36.5 years
+female: 38.4 years (2017 est.)",37.4,36.5,38.4,-1.8999999999999984,"0-14 years: 17.15% (male 127,484,177/female 109,113,241)
+15-24 years: 12.78% (male 94,215,607/female 82,050,623)
+25-54 years: 48.51% (male 341,466,438/female 327,661,460)
+55-64 years: 10.75% (male 74,771,050/female 73,441,177)
+65 years and over: 10.81% (male 71,103,029/female 77,995,969) (2017 est.)",17.15,12.78,48.51,10.75,10.81,127484177,109113241,94215607,82050623,341466438,327661460,74771050,73441177,71103029,77995969,"-0.4 migrant(s)/1,000 population (2017 est.)",-0.4,12.3,7.8,4.500000000000001,Asia,75.7,73.6,78.0
+Colombia,"4 00 N, 72 00 W",4.0,-72.0,"47,698,524 (July 2017 est.)",47698524,"total: 30 years
+male: 29 years
+female: 31 years (2017 est.)",30.0,29.0,31.0,-2.0,"0-14 years: 24.22% (male 5,917,425/female 5,634,516)
+15-24 years: 17.25% (male 4,191,033/female 4,038,314)
+25-54 years: 41.91% (male 9,918,698/female 10,071,419)
+55-64 years: 9.18% (male 2,059,712/female 2,318,320)
+65 years and over: 7.44% (male 1,480,966/female 2,068,121) (2017 est.)",24.22,17.25,41.91,9.18,7.44,5917425,5634516,4191033,4038314,9918698,10071419,2059712,2318320,1480966,2068121,"-0.6 migrant(s)/1,000 population (2017 est.)",-0.6,16.1,5.5,10.6,South America,75.9,72.8,79.3
+Comoros,"12 10 S, 44 15 E",-12.166666666666664,44.25,"808,080 (July 2017 est.)",808080,"total: 19.9 years
+male: 19.2 years
+female: 20.5 years (2017 est.)",19.9,19.2,20.5,-1.3000000000000007,"0-14 years: 39.35% (male 158,516/female 159,491)
+15-24 years: 19.53% (male 76,425/female 81,393)
+25-54 years: 32.91% (male 126,279/female 139,659)
+55-64 years: 4.27% (male 15,375/female 19,133)
+65 years and over: 3.94% (male 14,605/female 17,204) (2017 est.)",39.35,19.53,32.91,4.27,3.94,158516,159491,76425,81393,126279,139659,15375,19133,14605,17204,"-2.4 migrant(s)/1,000 population (2017 est.)",-2.4,26.1,7.2,18.9,Africa,64.6,62.3,67.0
+"Congo, Democratic Republic of the","0 00 N, 25 00 E",0.0,25.0,"83,301,151
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",83301151,"total: 18.6 years
+male: 18.3 years
+female: 18.8 years (2017 est.)",18.6,18.3,18.8,-0.5,"0-14 years: 41.74% (male 17,525,063/female 17,241,929)
+15-24 years: 21.46% (male 8,969,922/female 8,909,903)
+25-54 years: 30.53% (male 12,691,612/female 12,738,316)
+55-64 years: 3.6% (male 1,421,619/female 1,579,034)
+65 years and over: 2.67% (male 941,926/female 1,281,827) (2017 est.)",41.74,21.46,30.53,3.6,2.67,17525063,17241929,8969922,8909903,12691612,12738316,1421619,1579034,941926,1281827,"-0.2 migrant(s)/1,000 population (2017 est.)",-0.2,33.5,9.6,23.9,Africa,57.7,56.1,59.3
+"Congo, Republic of the","1 00 S, 15 00 E",-1.0,15.0,"4,954,674
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",4954674,"total: 19.7 years
+male: 19.5 years
+female: 19.8 years (2017 est.)",19.7,19.5,19.8,-0.3000000000000007,"0-14 years: 41.67% (male 1,041,761/female 1,022,763)
+15-24 years: 17.1% (male 424,521/female 422,755)
+25-54 years: 33.89% (male 843,856/female 835,041)
+55-64 years: 4.29% (male 106,776/female 105,573)
+65 years and over: 3.06% (male 66,962/female 84,666) (2017 est.)",41.67,17.1,33.89,4.29,3.06,1041761,1022763,424521,422755,843856,835041,106776,105573,66962,84666,"-3.8 migrant(s)/1,000 population (2017 est.)",-3.8,34.4,9.5,24.9,Africa,59.8,58.6,61.1
+Costa Rica,"10 00 N, 84 00 W",10.0,-84.0,"4,930,258 (July 2017 est.)",4930258,"total: 31.3 years
+male: 30.8 years
+female: 31.8 years (2017 est.)",31.3,30.8,31.8,-1.0,"0-14 years: 22.61% (male 570,063/female 544,502)
+15-24 years: 16.35% (male 410,993/female 394,865)
+25-54 years: 44.03% (male 1,092,504/female 1,078,458)
+55-64 years: 9.2% (male 220,879/female 232,530)
+65 years and over: 7.82% (male 177,882/female 207,582) (2017 est.)",22.61,16.35,44.03,9.2,7.82,570063,544502,410993,394865,1092504,1078458,220879,232530,177882,207582,"0.8 migrant(s)/1,000 population (2017 est.)",0.8,15.5,4.7,10.8,Central America and the Caribbean,78.7,76.1,81.5
+Cote d'Ivoire,"8 00 N, 5 00 W",8.0,-5.0,"24,184,810
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",24184810,"total: 20.9 years
+male: 21 years
+female: 20.9 years (2017 est.)",20.9,21.0,20.9,0.10000000000000142,"0-14 years: 36.97% (male 4,508,541/female 4,431,979)
+15-24 years: 20.91% (male 2,549,588/female 2,508,317)
+25-54 years: 34.58% (male 4,272,294/female 4,090,997)
+55-64 years: 4.04% (male 490,918/female 486,702)
+65 years and over: 3.5% (male 403,757/female 441,717) (2017 est.)",36.97,20.91,34.58,4.04,3.5,4508541,4431979,2549588,2508317,4272294,4090997,490918,486702,403757,441717,"0 migrant(s)/1,000 population (2017 est.)",0.0,27.7,9.4,18.3,Africa,59.0,57.8,60.2
+Croatia,"45 10 N, 15 30 E",45.16666666666666,15.5,"4,292,095 (July 2017 est.)",4292095,"total: 43 years
+male: 41.1 years
+female: 45 years (2017 est.)",43.0,41.1,45.0,-3.899999999999999,"0-14 years: 14.21% (male 314,287/female 295,520)
+15-24 years: 11.24% (male 247,394/female 235,166)
+25-54 years: 40.43% (male 867,978/female 867,125)
+55-64 years: 14.82% (male 309,794/female 326,102)
+65 years and over: 19.31% (male 330,406/female 498,323) (2017 est.)",14.21,11.24,40.43,14.82,19.31,314287,295520,247394,235166,867978,867125,309794,326102,330406,498323,"-1.7 migrant(s)/1,000 population (2017 est.)",-1.7,8.9,12.2,-3.299999999999999,Europe,76.1,72.9,79.4
+Cuba,"21 30 N, 80 00 W",21.5,-80.0,"11,147,407 (July 2017 est.)",11147407,"total: 41.5 years
+male: 40.1 years
+female: 42.6 years (2017 est.)",41.5,40.1,42.6,-2.5,"0-14 years: 16.57% (male 950,870/female 896,476)
+15-24 years: 12.22% (male 706,882/female 655,446)
+25-54 years: 44.43% (male 2,490,483/female 2,462,250)
+55-64 years: 11.84% (male 640,150/female 679,603)
+65 years and over: 14.94% (male 763,058/female 902,189) (2017 est.)",16.57,12.22,44.43,11.84,14.94,950870,896476,706882,655446,2490483,2462250,640150,679603,763058,902189,"-4.9 migrant(s)/1,000 population (2017 est.)",-4.9,10.7,8.7,2.0,Central America and the Caribbean,78.8,76.5,81.3
+Curacao,"12 10 N, 69 00 W",12.166666666666664,-69.0,"149,648 (July 2017 est.)",149648,"total: 36.1 years
+male: 33.5 years
+female: 39.7 years (2017 est.)",36.1,33.5,39.7,-6.200000000000002,"0-14 years: 20% (male 15,274/female 14,661)
+15-24 years: 14.33% (male 11,170/female 10,280)
+25-54 years: 36.87% (male 27,152/female 28,029)
+55-64 years: 13.69% (male 8,862/female 11,620)
+65 years and over: 15.1% (male 9,270/female 13,330) (2017 est.)",20.0,14.33,36.87,13.69,15.1,15274,14661,11170,10280,27152,28029,8862,11620,9270,13330,"-1.3 migrant(s)/1,000 population (2017 est.)",-1.3,13.7,8.4,5.299999999999999,Central America and the Caribbean,78.5,76.2,80.9
+Cyprus,"35 00 N, 33 00 E",35.0,33.0,"1,221,549 (July 2017 est.)",1221549,"total: 36.8 years
+male: 35.5 years
+female: 38.3 years (2017 est.)",36.8,35.5,38.3,-2.799999999999997,"0-14 years: 15.6% (male 97,955/female 92,648)
+15-24 years: 13.81% (male 91,846/female 76,853)
+25-54 years: 47.04% (male 303,297/female 271,364)
+55-64 years: 11.45% (male 67,053/female 72,854)
+65 years and over: 12.09% (male 63,870/female 83,809) (2017 est.)",15.6,13.81,47.04,11.45,12.09,97955,92648,91846,76853,303297,271364,67053,72854,63870,83809,"8.7 migrant(s)/1,000 population (2017 est.)",8.7,11.3,6.8,4.500000000000001,Middle East,78.8,76.0,81.8
+Czechia,"49 45 N, 15 30 E",49.75,15.5,"10,674,723 (July 2017 est.)",10674723,"total: 42.1 years
+male: 40.8 years
+female: 43.4 years (2017 est.)",42.1,40.8,43.4,-2.6000000000000014,"0-14 years: 15.16% (male 831,150/female 786,984)
+15-24 years: 9.59% (male 527,232/female 496,530)
+25-54 years: 43.84% (male 2,403,333/female 2,276,261)
+55-64 years: 12.44% (male 646,106/female 681,541)
+65 years and over: 18.98% (male 842,384/female 1,183,202) (2017 est.)",15.16,9.59,43.84,12.44,18.98,831150,786984,527232,496530,2403333,2276261,646106,681541,842384,1183202,"2.3 migrant(s)/1,000 population (2017 est.)",2.3,9.3,10.5,-1.1999999999999993,Europe,78.8,75.8,81.9
+Denmark,"56 00 N, 10 00 E",56.0,10.0,"5,605,948 (July 2017 est.)",5605948,"total: 42.2 years
+male: 41.2 years
+female: 43.2 years (2017 est.)",42.2,41.2,43.2,-2.0,"0-14 years: 16.41% (male 472,106/female 447,997)
+15-24 years: 13.08% (male 374,379/female 358,927)
+25-54 years: 38.76% (male 1,080,118/female 1,092,503)
+55-64 years: 12.52% (male 349,091/female 352,903)
+65 years and over: 19.23% (male 483,519/female 594,405) (2017 est.)",16.41,13.08,38.76,12.52,19.23,472106,447997,374379,358927,1080118,1092503,349091,352903,483519,594405,"2.1 migrant(s)/1,000 population (2017 est.)",2.1,10.5,10.3,0.1999999999999993,Europe,79.5,77.1,82.1
+Djibouti,"11 30 N, 43 00 E",11.5,43.0,"865,267 (July 2017 est.)",865267,"total: 23.9 years
+male: 22.1 years
+female: 25.3 years (2017 est.)",23.9,22.1,25.3,-3.2,"0-14 years: 31.14% (male 135,151/female 134,312)
+15-24 years: 21.32% (male 86,820/female 97,656)
+25-54 years: 39.03% (male 140,242/female 197,484)
+55-64 years: 4.75% (male 18,593/female 22,515)
+65 years and over: 3.76% (male 14,559/female 17,935) (2017 est.)",31.14,21.32,39.03,4.75,3.76,135151,134312,86820,97656,140242,197484,18593,22515,14559,17935,"5.7 migrant(s)/1,000 population (2017 est.)",5.7,23.4,7.5,15.9,Africa,63.6,61.0,66.2
+Dominica,"15 25 N, 61 20 W",15.416666666666664,-61.33333333333334,"73,897 (July 2017 est.)",73897,"total: 33.5 years
+male: 33 years
+female: 34 years (2017 est.)",33.5,33.0,34.0,-1.0,"0-14 years: 21.72% (male 8,210/female 7,843)
+15-24 years: 15.14% (male 5,758/female 5,428)
+25-54 years: 42.2% (male 15,809/female 15,372)
+55-64 years: 9.81% (male 3,860/female 3,387)
+65 years and over: 11.14% (male 3,679/female 4,551) (2017 est.)",21.72,15.14,42.2,9.81,11.14,8210,7843,5758,5428,15809,15372,3860,3387,3679,4551,"-5.4 migrant(s)/1,000 population (2017 est.)",-5.4,15.1,7.9,7.1999999999999975,Central America and the Caribbean,77.2,74.2,80.3
+Dominican Republic,"19 00 N, 70 40 W",19.0,-70.66666666666667,"10,734,247 (July 2017 est.)",10734247,"total: 28.1 years
+male: 27.9 years
+female: 28.3 years (2017 est.)",28.1,27.9,28.3,-0.4000000000000021,"0-14 years: 26.63% (male 1,454,527/female 1,404,538)
+15-24 years: 18.18% (male 993,642/female 957,466)
+25-54 years: 39.66% (male 2,178,477/female 2,078,371)
+55-64 years: 7.9% (male 426,810/female 421,727)
+65 years and over: 7.63% (male 378,226/female 440,463) (2017 est.)",26.63,18.18,39.66,7.9,7.63,1454527,1404538,993642,957466,2178477,2078371,426810,421727,378226,440463,"-1.9 migrant(s)/1,000 population (2017 est.)",-1.9,18.4,4.7,13.7,Central America and the Caribbean,78.3,76.0,80.6
+Ecuador,"2 00 S, 77 30 W",-2.0,-77.5,"16,290,913 (July 2017 est.)",16290913,"total: 27.7 years
+male: 27 years
+female: 28.4 years (2017 est.)",27.7,27.0,28.4,-1.3999999999999986,"0-14 years: 27.08% (male 2,250,000/female 2,161,123)
+15-24 years: 18.35% (male 1,519,255/female 1,469,372)
+25-54 years: 39.59% (male 3,145,954/female 3,303,520)
+55-64 years: 7.53% (male 599,032/female 628,477)
+65 years and over: 7.45% (male 576,196/female 637,984) (2017 est.)",27.08,18.35,39.59,7.53,7.45,2250000,2161123,1519255,1469372,3145954,3303520,599032,628477,576196,637984,"0 migrant(s)/1,000 population (2017 est.)",0.0,17.9,5.1,12.8,South America,77.0,74.0,80.1
+Egypt,"27 00 N, 30 00 E",27.0,30.0,"97,041,072 (July 2017 est.)",97041072,"total: 23.9 years
+male: 23.6 years
+female: 24.2 years (2017 est.)",23.9,23.6,24.2,-0.5999999999999979,"0-14 years: 33.29% (male 16,720,307/female 15,583,019)
+15-24 years: 18.94% (male 9,464,262/female 8,919,614)
+25-54 years: 37.6% (male 18,545,422/female 17,944,582)
+55-64 years: 5.95% (male 2,861,136/female 2,911,586)
+65 years and over: 4.22% (male 1,993,248/female 2,097,896) (2017 est.)",33.29,18.94,37.6,5.95,4.22,16720307,15583019,9464262,8919614,18545422,17944582,2861136,2911586,1993248,2097896,"-0.5 migrant(s)/1,000 population (2017 est.)",-0.5,29.6,4.6,25.0,Africa,73.0,71.6,74.4
+El Salvador,"13 50 N, 88 55 W",13.833333333333336,-88.91666666666669,"6,172,011 (July 2017 est.)",6172011,"total: 27.1 years
+male: 25.6 years
+female: 28.6 years (2017 est.)",27.1,25.6,28.6,-3.0,"0-14 years: 25.92% (male 820,255/female 779,306)
+15-24 years: 20.23% (male 628,535/female 620,230)
+25-54 years: 39.23% (male 1,120,705/female 1,300,771)
+55-64 years: 7.14% (male 194,360/female 246,164)
+65 years and over: 7.48% (male 203,320/female 258,365) (2017 est.)",25.92,20.23,39.23,7.14,7.48,820255,779306,628535,620230,1120705,1300771,194360,246164,203320,258365,"-8 migrant(s)/1,000 population (2017 est.)",-8.0,16.2,5.8,10.4,Central America and the Caribbean,74.9,71.6,78.3
+Equatorial Guinea,"2 00 N, 10 00 E",2.0,10.0,"778,358 (July 2017 est.)",778358,"total: 19.8 years
+male: 19.3 years
+female: 20.3 years (2017 est.)",19.8,19.3,20.3,-1.0,"0-14 years: 39.81% (male 157,388/female 152,469)
+15-24 years: 19.72% (male 78,145/female 75,348)
+25-54 years: 32.15% (male 125,108/female 125,096)
+55-64 years: 4.37% (male 14,676/female 19,349)
+65 years and over: 3.95% (male 12,808/female 17,971) (2017 est.)",39.81,19.72,32.15,4.37,3.95,157388,152469,78145,75348,125108,125096,14676,19349,12808,17971,"0 migrant(s)/1,000 population (2017 est.)",0.0,32.2,7.8,24.4,Africa,64.6,63.4,65.8
+Eritrea,"15 00 N, 39 00 E",15.0,39.0,"5,918,919 (July 2017 est.)",5918919,"total: 19.7 years
+male: 19.2 years
+female: 20.1 years (2017 est.)",19.7,19.2,20.1,-0.9000000000000021,"0-14 years: 40.17% (male 1,195,210/female 1,182,603)
+15-24 years: 19.57% (male 576,315/female 582,143)
+25-54 years: 32.63% (male 950,121/female 981,163)
+55-64 years: 3.7% (male 94,767/female 124,528)
+65 years and over: 3.92% (male 97,530/female 134,539) (2017 est.)",40.17,19.57,32.63,3.7,3.92,1195210,1182603,576315,582143,950121,981163,94767,124528,97530,134539,"-13.9 migrant(s)/1,000 population (2017 est.)",-13.9,29.6,7.2,22.4,Africa,65.2,62.7,67.8
+Estonia,"59 00 N, 26 00 E",59.0,26.0,"1,251,581 (July 2017 est.)",1251581,"total: 42.7 years
+male: 39.4 years
+female: 46.1 years (2017 est.)",42.7,39.4,46.1,-6.700000000000002,"0-14 years: 16.23% (male 104,130/female 98,941)
+15-24 years: 8.99% (male 58,432/female 54,122)
+25-54 years: 41.37% (male 261,366/female 256,383)
+55-64 years: 13.57% (male 76,591/female 93,194)
+65 years and over: 19.85% (male 84,466/female 163,956) (2017 est.)",16.23,8.99,41.37,13.57,19.85,104130,98941,58432,54122,261366,256383,76591,93194,84466,163956,"-3.2 migrant(s)/1,000 population (2017 est.)",-3.2,10.1,12.6,-2.5,Europe,76.9,72.1,81.9
+Ethiopia,"8 00 N, 38 00 E",8.0,38.0,"105,350,020
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",105350020,"total: 17.9 years
+male: 17.7 years
+female: 18.1 years (2017 est.)",17.9,17.7,18.1,-0.4000000000000021,"0-14 years: 43.47% (male 22,963,502/female 22,826,957)
+15-24 years: 20.11% (male 10,516,591/female 10,669,695)
+25-54 years: 29.58% (male 15,464,171/female 15,702,104)
+55-64 years: 3.91% (male 1,998,711/female 2,115,210)
+65 years and over: 2.94% (male 1,391,339/female 1,701,740) (2017 est.)",43.47,20.11,29.58,3.91,2.94,22963502,22826957,10516591,10669695,15464171,15702104,1998711,2115210,1391339,1701740,"-0.2 migrant(s)/1,000 population (2017 est.)",-0.2,36.5,7.7,28.8,Africa,62.6,60.1,65.1
+Faroe Islands,"62 00 N, 7 00 W",62.0,-7.0,"50,730 (July 2017 est.)",50730,"total: 37.6 years
+male: 37.1 years
+female: 38.3 years (2017 est.)",37.6,37.1,38.3,-1.1999999999999955,"0-14 years: 19.89% (male 5,214/female 4,878)
+15-24 years: 14.34% (male 3,738/female 3,538)
+25-54 years: 37.31% (male 10,252/female 8,676)
+55-64 years: 11.69% (male 3,054/female 2,878)
+65 years and over: 16.76% (male 4,111/female 4,391) (2017 est.)",19.89,14.34,37.31,11.69,16.76,5214,4878,3738,3538,10252,8676,3054,2878,4111,4391,"0 migrant(s)/1,000 population (2017 est.)",0.0,14.3,8.8,5.5,Europe,80.5,78.0,83.2
+Fiji,"18 00 S, 175 00 E",-18.0,175.0,"920,938 (July 2017 est.)",920938,"total: 28.9 years
+male: 28.7 years
+female: 29.1 years (2017 est.)",28.9,28.7,29.1,-0.4000000000000021,"0-14 years: 27.7% (male 130,394/female 124,734)
+15-24 years: 16.13% (male 75,803/female 72,774)
+25-54 years: 41.08% (male 193,700/female 184,629)
+55-64 years: 8.53% (male 39,853/female 38,748)
+65 years and over: 6.55% (male 27,714/female 32,589) (2017 est.)",27.7,16.13,41.08,8.53,6.55,130394,124734,75803,72774,193700,184629,39853,38748,27714,32589,"-6.5 migrant(s)/1,000 population (2017 est.)",-6.5,18.6,6.1,12.500000000000002,Oceania,73.0,70.3,75.8
+Finland,"64 00 N, 26 00 E",64.0,26.0,"5,518,371 (July 2017 est.)",5518371,"total: 42.5 years
+male: 40.9 years
+female: 44.3 years (2017 est.)",42.5,40.9,44.3,-3.3999999999999986,"0-14 years: 16.43% (male 463,432/female 443,384)
+15-24 years: 11.4% (male 321,609/female 307,458)
+25-54 years: 37.78% (male 1,064,427/female 1,020,285)
+55-64 years: 13.29% (male 360,821/female 372,794)
+65 years and over: 21.1% (male 506,342/female 657,819) (2017 est.)",16.43,11.4,37.78,13.29,21.1,463432,443384,321609,307458,1064427,1020285,360821,372794,506342,657819,"2.9 migrant(s)/1,000 population (2017 est.)",2.9,10.7,10.0,0.6999999999999993,Europe,81.0,78.0,84.1
+France,"metropolitan France: 46 00 N, 2 00 E
+French Guiana: 4 00 N, 53 00 W
+Guadeloupe: 16 15 N, 61 35 W
+Martinique: 14 40 N, 61 00 W
+Mayotte: 12 50 S, 45 10 E
+Reunion: 21 06 S, 55 36 E",46.0,2.0,"67,106,161
+note: the above figure is for metropolitan France and five overseas regions; the metropolitan France population is 62,814,233 (July 2017 est.)",67106161,"total: 41.4 years
+male: 39.6 years
+female: 43.1 years (2017 est.)",41.4,39.6,43.1,-3.5,"0-14 years: 18.53% (male 6,360,218/female 6,076,598)
+15-24 years: 11.79% (male 4,045,901/female 3,864,395)
+25-54 years: 37.78% (male 12,773,900/female 12,578,256)
+55-64 years: 12.42% (male 4,020,507/female 4,315,407)
+65 years and over: 19.48% (male 5,648,888/female 7,422,091) (2017 est.)",18.53,11.79,37.78,12.42,19.48,6360218,6076598,4045901,3864395,12773900,12578256,4020507,4315407,5648888,7422091,"1.1 migrant(s)/1,000 population (2017 est.)",1.1,12.2,9.3,2.8999999999999986,"metropolitan France: Europe
+French Guiana: South America
+Guadeloupe: Central America and the Caribbean
+Martinique: Central America and the Caribbean
+Mayotte: Africa
+Reunion: World",81.9,78.8,85.2
+French Polynesia,"15 00 S, 140 00 W",-15.0,-140.0,"287,881 (July 2017 est.)",287881,"total: 31.9 years
+male: 31.7 years
+female: 32.1 years (2017 est.)",31.9,31.7,32.1,-0.4000000000000021,"0-14 years: 22.52% (male 33,340/female 31,481)
+15-24 years: 15.73% (male 23,533/female 21,745)
+25-54 years: 44.36% (male 65,464/female 62,254)
+55-64 years: 9.42% (male 13,947/female 13,178)
+65 years and over: 7.97% (male 11,090/female 11,849) (2017 est.)",22.52,15.73,44.36,9.42,7.97,33340,31481,23533,21745,65464,62254,13947,13178,11090,11849,"-0.8 migrant(s)/1,000 population (2017 est.)",-0.8,14.8,5.2,9.6,Oceania,77.4,75.1,79.8
+Gabon,"1 00 S, 11 45 E",-1.0,11.75,"1,772,255
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",1772255,"total: 18.6 years
+male: 18.4 years
+female: 18.8 years (2017 est.)",18.6,18.4,18.8,-0.4000000000000021,"0-14 years: 41.9% (male 373,307/female 369,237)
+15-24 years: 20.46% (male 181,823/female 180,837)
+25-54 years: 29.52% (male 262,511/female 260,673)
+55-64 years: 4.36% (male 37,178/female 40,014)
+65 years and over: 3.76% (male 28,664/female 38,011) (2017 est.)",41.9,20.46,29.52,4.36,3.76,373307,369237,181823,180837,262511,260673,37178,40014,28664,38011,"-2 migrant(s)/1,000 population (2017 est.)",-2.0,34.2,13.0,21.200000000000006,Africa,52.1,51.7,52.5
+"Gambia, The","13 28 N, 16 34 W",13.466666666666667,-16.566666666666666,"2,051,363 (July 2017 est.)",2051363,"total: 21 years
+male: 20.7 years
+female: 21.3 years (2017 est.)",21.0,20.7,21.3,-0.6000000000000014,"0-14 years: 37.44% (male 385,646/female 382,328)
+15-24 years: 20.47% (male 207,611/female 212,366)
+25-54 years: 34.4% (male 345,788/female 359,976)
+55-64 years: 4.2% (male 41,295/female 44,865)
+65 years and over: 3.48% (male 33,153/female 38,335) (2017 est.)",37.44,20.47,34.4,4.2,3.48,385646,382328,207611,212366,345788,359976,41295,44865,33153,38335,"-1.9 migrant(s)/1,000 population (2017 est.)",-1.9,29.4,7.0,22.4,Africa,65.1,62.8,67.5
+Gaza Strip,"31 25 N, 34 20 E",31.41666666666667,34.333333333333336,"1,795,183 (July 2017 est.)",1795183,"total: 17.2 years
+male: 16.8 years
+female: 17.5 years (2017 est.)",17.2,16.8,17.5,-0.6999999999999993,"0-14 years: 44.78% (male 412,644/female 391,275)
+15-24 years: 21.25% (male 192,292/female 189,166)
+25-54 years: 28.02% (male 246,518/female 256,543)
+55-64 years: 3.4% (male 31,961/female 29,119)
+65 years and over: 2.54% (male 23,729/female 21,936) (2017 est.)",44.78,21.25,28.02,3.4,2.54,412644,391275,192292,189166,246518,256543,31961,29119,23729,21936,"-5.1 migrant(s)/1,000 population (2017 est.)",-5.1,31.4,3.1,28.3,Middle East,74.2,72.5,75.9
+Georgia,"42 00 N, 43 30 E",42.0,43.5,"4,926,330 (July 2017 est.)",4926330,"total: 38.1 years
+male: 35.3 years
+female: 40.9 years (2017 est.)",38.1,35.3,40.9,-5.600000000000001,"0-14 years: 18.08% (male 466,426/female 424,295)
+15-24 years: 11.94% (male 310,970/female 277,434)
+25-54 years: 40.96% (male 983,144/female 1,034,794)
+55-64 years: 13.01% (male 286,539/female 354,247)
+65 years and over: 16.01% (male 309,353/female 479,128) (2017 est.)",18.08,11.94,40.96,13.01,16.01,466426,424295,310970,277434,983144,1034794,286539,354247,309353,479128,"-1.6 migrant(s)/1,000 population (2017 est.)",-1.6,12.3,10.9,1.4000000000000004,Asia,76.4,72.3,80.7
+Germany,"51 00 N, 9 00 E",51.0,9.0,"80,594,017 (July 2017 est.)",80594017,"total: 47.1 years
+male: 46 years
+female: 48.2 years (2017 est.)",47.1,46.0,48.2,-2.200000000000003,"0-14 years: 12.82% (male 5,304,341/female 5,028,776)
+15-24 years: 10.09% (male 4,145,486/female 3,986,302)
+25-54 years: 40.45% (male 16,467,975/female 16,133,964)
+55-64 years: 14.58% (male 5,834,179/female 5,913,322)
+65 years and over: 22.06% (male 7,822,221/female 9,957,451) (2017 est.)",12.82,10.09,40.45,14.58,22.06,5304341,5028776,4145486,3986302,16467975,16133964,5834179,5913322,7822221,9957451,"1.5 migrant(s)/1,000 population (2017 est.)",1.5,8.6,11.7,-3.1,Europe,80.8,78.5,83.3
+Ghana,"8 00 N, 2 00 W",8.0,-2.0,"27,499,924
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",27499924,"total: 21.1 years
+male: 20.6 years
+female: 21.6 years (2017 est.)",21.1,20.6,21.6,-1.0,"0-14 years: 38.01% (male 5,253,430/female 5,198,892)
+15-24 years: 18.63% (male 2,548,661/female 2,575,160)
+25-54 years: 34.14% (male 4,554,972/female 4,834,765)
+55-64 years: 4.97% (male 664,866/female 701,277)
+65 years and over: 4.25% (male 538,790/female 629,111) (2017 est.)",38.01,18.63,34.14,4.97,4.25,5253430,5198892,2548661,2575160,4554972,4834765,664866,701277,538790,629111,"-1.8 migrant(s)/1,000 population (2017 est.)",-1.8,30.5,7.0,23.5,Africa,67.0,64.5,69.6
+Gibraltar,"36 08 N, 5 21 W",36.13333333333333,-5.35,"29,396 (July 2017 est.)",29396,"total: 34.7 years
+male: 33.8 years
+female: 35.7 years (2017 est.)",34.7,33.8,35.7,-1.9000000000000057,"0-14 years: 20.22% (male 3,045/female 2,899)
+15-24 years: 14.34% (male 2,199/female 2,017)
+25-54 years: 39.67% (male 5,958/female 5,703)
+55-64 years: 9.68% (male 1,232/female 1,614)
+65 years and over: 16.09% (male 2,329/female 2,400) (2017 est.)",20.22,14.34,39.67,9.68,16.09,3045,2899,2199,2017,5958,5703,1232,1614,2329,2400,"-3.3 migrant(s)/1,000 population (2017 est.)",-3.3,14.0,8.5,5.5,Europe,79.6,76.7,82.6
+Greece,"39 00 N, 22 00 E",39.0,22.0,"10,768,477 (July 2017 est.)",10768477,"total: 44.5 years
+male: 43.5 years
+female: 45.6 years (2017 est.)",44.5,43.5,45.6,-2.1000000000000014,"0-14 years: 13.83% (male 767,245/female 722,313)
+15-24 years: 9.67% (male 532,179/female 509,487)
+25-54 years: 42.45% (male 2,275,984/female 2,295,082)
+55-64 years: 13.13% (male 692,420/female 721,641)
+65 years and over: 20.91% (male 986,816/female 1,265,310) (2017 est.)",13.83,9.67,42.45,13.13,20.91,767245,722313,532179,509487,2275984,2295082,692420,721641,986816,1265310,"2.3 migrant(s)/1,000 population (2017 est.)",2.3,8.4,11.3,-2.9000000000000004,Europe,80.7,78.0,83.4
+Greenland,"72 00 N, 40 00 W",72.0,-40.0,"57,713 (July 2017 est.)",57713,"total: 33.9 years
+male: 35 years
+female: 32.7 years (2017 est.)",33.9,35.0,32.7,2.299999999999997,"0-14 years: 21.11% (male 6,195/female 5,986)
+15-24 years: 15.48% (male 4,506/female 4,429)
+25-54 years: 41.21% (male 12,473/female 11,309)
+55-64 years: 12.96% (male 4,112/female 3,370)
+65 years and over: 9.24% (male 2,862/female 2,471) (2017 est.)",21.11,15.48,41.21,12.96,9.24,6195,5986,4506,4429,12473,11309,4112,3370,2862,2471,"-6 migrant(s)/1,000 population (2017 est.)",-6.0,14.4,8.7,5.700000000000001,Arctic Region,72.6,69.9,75.5
+Grenada,"12 07 N, 61 40 W",12.116666666666667,-61.66666666666666,"111,724 (July 2017 est.)",111724,"total: 31.5 years
+male: 31.5 years
+female: 31.6 years (2017 est.)",31.5,31.5,31.6,-0.10000000000000142,"0-14 years: 23.99% (male 13,914/female 12,893)
+15-24 years: 15.03% (male 8,377/female 8,414)
+25-54 years: 40.38% (male 23,099/female 22,013)
+55-64 years: 10.52% (male 6,016/female 5,740)
+65 years and over: 10.08% (male 5,210/female 6,048) (2017 est.)",23.99,15.03,40.38,10.52,10.08,13914,12893,8377,8414,23099,22013,6016,5740,5210,6048,"-2.9 migrant(s)/1,000 population (2017 est.)",-2.9,15.5,8.2,7.300000000000002,Central America and the Caribbean,74.5,71.9,77.4
+Guam,"13 28 N, 144 47 E",13.466666666666667,144.78333333333333,"167,358 (July 2017 est.)",167358,"total: 29 years
+male: 28.3 years
+female: 29.7 years (2017 est.)",29.0,28.3,29.7,-1.3999999999999986,"0-14 years: 27.54% (male 23,896/female 22,190)
+15-24 years: 16.63% (male 14,847/female 12,981)
+25-54 years: 37.44% (male 32,295/female 30,356)
+55-64 years: 9.8% (male 8,352/female 8,057)
+65 years and over: 8.59% (male 6,706/female 7,678) (2017 est.)",27.54,16.63,37.44,9.8,8.59,23896,22190,14847,12981,32295,30356,8352,8057,6706,7678,"-11.1 migrant(s)/1,000 population (2017 est.)",-11.1,19.7,6.0,13.7,Oceania,76.0,73.6,78.6
+Guatemala,"15 30 N, 90 15 W",15.5,-90.25,"15,460,732 (July 2017 est.)",15460732,"total: 22.1 years
+male: 21.4 years
+female: 22.8 years (2017 est.)",22.1,21.4,22.8,-1.4000000000000021,"0-14 years: 34.5% (male 2,719,027/female 2,614,720)
+15-24 years: 21.58% (male 1,677,634/female 1,658,941)
+25-54 years: 34.12% (male 2,516,456/female 2,759,393)
+55-64 years: 5.26% (male 384,967/female 428,198)
+65 years and over: 4.54% (male 324,492/female 376,904) (2017 est.)",34.5,21.58,34.12,5.26,4.54,2719027,2614720,1677634,1658941,2516456,2759393,384967,428198,324492,376904,"-1.9 migrant(s)/1,000 population (2017 est.)",-1.9,24.1,4.7,19.4,Central America and the Caribbean,72.6,70.6,74.7
+Guernsey,"49 28 N, 2 35 W",49.46666666666667,-2.583333333333333,"66,502 (July 2017 est.)",66502,"total: 43.8 years
+male: 42.5 years
+female: 45.1 years (2017 est.)",43.8,42.5,45.1,-2.6000000000000014,"0-14 years: 14.51% (male 4,984/female 4,665)
+15-24 years: 11.13% (male 3,780/female 3,620)
+25-54 years: 41.67% (male 13,995/female 13,719)
+55-64 years: 13.11% (male 4,332/female 4,387)
+65 years and over: 19.58% (male 5,929/female 7,091) (2017 est.)",14.51,11.13,41.67,13.11,19.58,4984,4665,3780,3620,13995,13719,4332,4387,5929,7091,"2.2 migrant(s)/1,000 population (2017 est.)",2.2,9.8,9.0,0.8000000000000007,Europe,82.6,79.9,85.4
+Guinea,"11 00 N, 10 00 W",11.0,-10.0,"12,413,867 (July 2017 est.)",12413867,"total: 18.9 years
+male: 18.7 years
+female: 19.1 years (2017 est.)",18.9,18.7,19.1,-0.4000000000000021,"0-14 years: 41.52% (male 2,603,506/female 2,550,714)
+15-24 years: 19.73% (male 1,236,092/female 1,212,936)
+25-54 years: 30.59% (male 1,905,249/female 1,892,638)
+55-64 years: 4.48% (male 266,848/female 289,697)
+65 years and over: 3.67% (male 201,598/female 254,589) (2017 est.)",41.52,19.73,30.59,4.48,3.67,2603506,2550714,1236092,1212936,1905249,1892638,266848,289697,201598,254589,"0 migrant(s)/1,000 population (2017 est.)",0.0,35.1,9.0,26.1,Africa,61.0,59.5,62.6
+Guinea-Bissau,"12 00 N, 15 00 W",12.0,-15.0,"1,792,338 (July 2017 est.)",1792338,"total: 20.1 years
+male: 19.7 years
+female: 20.6 years (2017 est.)",20.1,19.7,20.6,-0.9000000000000021,"0-14 years: 39.03% (male 349,256/female 350,327)
+15-24 years: 20.18% (male 179,389/female 182,242)
+25-54 years: 32.77% (male 292,736/female 294,526)
+55-64 years: 4.57% (male 32,156/female 49,761)
+65 years and over: 3.46% (male 22,574/female 39,371) (2017 est.)",39.03,20.18,32.77,4.57,3.46,349256,350327,179389,182242,292736,294526,32156,49761,22574,39371,"0 migrant(s)/1,000 population (2017 est.)",0.0,32.5,13.9,18.6,Africa,51.0,48.9,53.1
+Guyana,"5 00 N, 59 00 W",5.0,-59.0,"737,718
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",737718,"total: 26.2 years
+male: 25.9 years
+female: 26.6 years (2017 est.)",26.2,25.9,26.6,-0.7000000000000028,"0-14 years: 26.22% (male 98,506/female 94,949)
+15-24 years: 21.56% (male 81,487/female 77,567)
+25-54 years: 38.1% (male 146,915/female 134,145)
+55-64 years: 8.03% (male 26,924/female 32,345)
+65 years and over: 6.08% (male 18,421/female 26,459) (2017 est.)",26.22,21.56,38.1,8.03,6.08,98506,94949,81487,77567,146915,134145,26924,32345,18421,26459,"-4.8 migrant(s)/1,000 population (2017 est.)",-4.8,15.4,7.4,8.0,South America,68.6,65.6,71.8
+Haiti,"19 00 N, 72 25 W",19.0,-72.41666666666667,"10,646,714
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",10646714,"total: 23 years
+male: 22.7 years
+female: 23.2 years (2017 est.)",23.0,22.7,23.2,-0.5,"0-14 years: 32.81% (male 1,740,291/female 1,752,663)
+15-24 years: 21.25% (male 1,132,386/female 1,129,844)
+25-54 years: 36.78% (male 1,943,683/female 1,972,347)
+55-64 years: 5.01% (male 254,352/female 279,431)
+65 years and over: 4.15% (male 194,535/female 247,182) (2017 est.)",32.81,21.25,36.78,5.01,4.15,1740291,1752663,1132386,1129844,1943683,1972347,254352,279431,194535,247182,"-2 migrant(s)/1,000 population (2017 est.)",-2.0,23.0,7.6,15.4,Central America and the Caribbean,64.2,61.6,66.8
+Honduras,"15 00 N, 86 30 W",15.0,-86.5,"9,038,741
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",9038741,"total: 23 years
+male: 22.6 years
+female: 23.3 years (2017 est.)",23.0,22.6,23.3,-0.6999999999999993,"0-14 years: 32.95% (male 1,521,300/female 1,456,727)
+15-24 years: 21% (male 968,013/female 930,060)
+25-54 years: 36.63% (male 1,675,574/female 1,635,241)
+55-64 years: 5.13% (male 218,342/female 245,447)
+65 years and over: 4.29% (male 167,957/female 220,080) (2017 est.)",32.95,21.0,36.63,5.13,4.29,1521300,1456727,968013,930060,1675574,1635241,218342,245447,167957,220080,"-1.1 migrant(s)/1,000 population (2017 est.)",-1.1,22.4,5.3,17.099999999999998,Central America and the Caribbean,71.2,69.5,72.9
+Hong Kong,"22 15 N, 114 10 E",22.25,114.16666666666669,"7,191,503 (July 2017 est.)",7191503,"total: 44.4 years
+male: 43.5 years
+female: 45 years (2017 est.)",44.4,43.5,45.0,-1.5,"0-14 years: 12.19% (male 462,748/female 414,023)
+15-24 years: 10.43% (male 392,167/female 357,821)
+25-54 years: 44.68% (male 1,370,206/female 1,842,825)
+55-64 years: 16.17% (male 559,421/female 603,771)
+65 years and over: 16.53% (male 559,512/female 629,009) (2017 est.)",12.19,10.43,44.68,16.17,16.53,462748,414023,392167,357821,1370206,1842825,559421,603771,559512,629009,"1.7 migrant(s)/1,000 population (2017 est.)",1.7,8.9,7.4,1.5,Southeast Asia,83.0,80.4,85.9
+Hungary,"47 00 N, 20 00 E",47.0,20.0,"9,850,845 (July 2017 est.)",9850845,"total: 42.3 years
+male: 40.4 years
+female: 44.3 years (2017 est.)",42.3,40.4,44.3,-3.899999999999999,"0-14 years: 14.71% (male 746,043/female 702,792)
+15-24 years: 10.96% (male 557,655/female 522,324)
+25-54 years: 41.88% (male 2,075,101/female 2,050,478)
+55-64 years: 13.4% (male 608,734/female 711,602)
+65 years and over: 19.05% (male 708,214/female 1,167,902) (2017 est.)",14.71,10.96,41.88,13.4,19.05,746043,702792,557655,522324,2075101,2050478,608734,711602,708214,1167902,"1.3 migrant(s)/1,000 population (2017 est.)",1.3,9.0,12.8,-3.8000000000000007,Europe,76.1,72.4,80.0
+Iceland,"65 00 N, 18 00 W",65.0,-18.0,"339,747 (July 2017 est.)",339747,"total: 36.5 years
+male: 35.9 years
+female: 37.1 years (2017 est.)",36.5,35.9,37.1,-1.2000000000000028,"0-14 years: 20.4% (male 35,418/female 33,887)
+15-24 years: 13.5% (male 23,190/female 22,659)
+25-54 years: 39.88% (male 68,579/female 66,899)
+55-64 years: 11.81% (male 20,119/female 20,007)
+65 years and over: 14.42% (male 22,936/female 26,053) (2017 est.)",20.4,13.5,39.88,11.81,14.42,35418,33887,23190,22659,68579,66899,20119,20007,22936,26053,"4 migrant(s)/1,000 population (2017 est.)",4.0,13.7,6.4,7.299999999999999,Arctic Region,83.1,80.9,85.4
+India,"20 00 N, 77 00 E",20.0,77.0,"1,281,935,911 (July 2017 est.)",1281935911,"total: 27.9 years
+male: 27.2 years
+female: 28.6 years (2017 est.)",27.9,27.2,28.6,-1.4000000000000021,"0-14 years: 27.34% (male 186,087,665/female 164,398,204)
+15-24 years: 17.9% (male 121,879,786/female 107,583,437)
+25-54 years: 41.08% (male 271,744,709/female 254,834,569)
+55-64 years: 7.45% (male 47,846,122/female 47,632,532)
+65 years and over: 6.24% (male 37,837,801/female 42,091,086) (2017 est.)",27.34,17.9,41.08,7.45,6.24,186087665,164398204,121879786,107583437,271744709,254834569,47846122,47632532,37837801,42091086,"0 migrant(s)/1,000 population (2017 est.)",0.0,19.0,7.3,11.7,Asia,68.8,67.6,70.1
+Indonesia,"5 00 S, 120 00 E",-5.0,120.0,"260,580,739 (July 2017 est.)",260580739,"total: 30.2 years
+male: 29.6 years
+female: 30.8 years (2017 est.)",30.2,29.6,30.8,-1.1999999999999993,"0-14 years: 25.02% (male 33,205,805/female 31,994,844)
+15-24 years: 16.99% (male 22,537,842/female 21,738,210)
+25-54 years: 42.4% (male 56,493,414/female 53,980,979)
+55-64 years: 8.58% (male 10,192,430/female 12,177,931)
+65 years and over: 7.01% (male 7,954,795/female 10,304,489) (2017 est.)",25.02,16.99,42.4,8.58,7.01,33205805,31994844,22537842,21738210,56493414,53980979,10192430,12177931,7954795,10304489,"-1.1 migrant(s)/1,000 population (2017 est.)",-1.1,16.2,6.5,9.7,Southeast Asia,73.0,70.4,75.7
+Iran,"32 00 N, 53 00 E",32.0,53.0,"82,021,564 (July 2017 est.)",82021564,"total: 30.3 years
+male: 30 years
+female: 30.5 years (2017 est.)",30.3,30.0,30.5,-0.5,"0-14 years: 24.19% (male 10,154,424/female 9,690,512)
+15-24 years: 14.69% (male 6,174,435/female 5,878,475)
+25-54 years: 48.57% (male 20,316,773/female 19,522,673)
+55-64 years: 7.22% (male 2,920,111/female 2,999,525)
+65 years and over: 5.32% (male 2,026,594/female 2,338,042) (2017 est.)",24.19,14.69,48.57,7.22,5.32,10154424,9690512,6174435,5878475,20316773,19522673,2920111,2999525,2026594,2338042,"-0.2 migrant(s)/1,000 population (2017 est.)",-0.2,17.9,5.3,12.599999999999998,Middle East,74.0,72.7,75.5
+Iraq,"33 00 N, 44 00 E",33.0,44.0,"39,192,111 (July 2017 est.)",39192111,"total: 20 years
+male: 19.8 years
+female: 20.3 years (2017 est.)",20.0,19.8,20.3,-0.5,"0-14 years: 39.46% (male 7,895,522/female 7,569,205)
+15-24 years: 19.25% (male 3,841,375/female 3,702,187)
+25-54 years: 33.84% (male 6,704,201/female 6,558,108)
+55-64 years: 3.99% (male 752,598/female 812,683)
+65 years and over: 3.46% (male 601,937/female 754,295) (2017 est.)",39.46,19.25,33.84,3.99,3.46,7895522,7569205,3841375,3702187,6704201,6558108,752598,812683,601937,754295,"-1.2 migrant(s)/1,000 population (2017 est.)",-1.2,30.4,3.8,26.6,Middle East,74.9,72.6,77.2
+Ireland,"53 00 N, 8 00 W",53.0,-8.0,"5,011,102 (July 2017 est.)",5011102,"total: 36.8 years
+male: 36.4 years
+female: 37.1 years (2017 est.)",36.8,36.4,37.1,-0.7000000000000028,"0-14 years: 21.46% (male 549,864/female 525,608)
+15-24 years: 11.84% (male 301,114/female 292,055)
+25-54 years: 43.2% (male 1,087,587/female 1,077,383)
+55-64 years: 10.42% (male 261,650/female 260,737)
+65 years and over: 13.07% (male 303,078/female 352,026) (2017 est.)",21.46,11.84,43.2,10.42,13.07,549864,525608,301114,292055,1087587,1077383,261650,260737,303078,352026,"4 migrant(s)/1,000 population (2017 est.)",4.0,14.1,6.6,7.5,Europe,80.9,78.6,83.4
+Isle of Man,"54 15 N, 4 30 W",54.25,-4.5,"88,815 (July 2017 est.)",88815,"total: 44.2 years
+male: 43.3 years
+female: 44.9 years (2017 est.)",44.2,43.3,44.9,-1.6000000000000014,"0-14 years: 16.28% (male 7,547/female 6,916)
+15-24 years: 11.43% (male 5,355/female 4,800)
+25-54 years: 38.79% (male 17,215/female 17,234)
+55-64 years: 13.13% (male 5,891/female 5,772)
+65 years and over: 20.36% (male 8,469/female 9,616) (2017 est.)",16.28,11.43,38.79,13.13,20.36,7547,6916,5355,4800,17215,17234,5891,5772,8469,9616,"6 migrant(s)/1,000 population (2017 est.)",6.0,11.0,10.2,0.8000000000000007,Europe,81.3,79.6,83.2
+Israel,"31 30 N, 34 45 E",31.5,34.75,"8,299,706 (July 2017 est.) (includes populations of the Golan Heights of Golan Sub-District and also East Jerusalem, which was annexed by Israel after 1967)
+note: approximately 22,000 Israeli settlers live in the Golan Heights (2016); approximately 201,000 Israeli settlers live in East Jerusalem (2014)",8299706,"total: 29.9 years
+male: 29.3 years
+female: 30.6 years (2017 est.)",29.9,29.3,30.6,-1.3000000000000007,"0-14 years: 27.51% (male 1,168,351/female 1,114,902)
+15-24 years: 15.53% (male 658,572/female 630,675)
+25-54 years: 37.17% (male 1,577,187/female 1,507,793)
+55-64 years: 8.46% (male 344,922/female 357,301)
+65 years and over: 11.33% (male 421,660/female 518,343) (2017 est.)",27.51,15.53,37.17,8.46,11.33,1168351,1114902,658572,630675,1577187,1507793,344922,357301,421660,518343,"2.2 migrant(s)/1,000 population (2017 est.)",2.2,18.1,5.2,12.900000000000002,Middle East,82.5,80.7,84.5
+Italy,"42 50 N, 12 50 E",42.833333333333336,12.833333333333336,"62,137,802 (July 2017 est.)",62137802,"total: 45.5 years
+male: 44.4 years
+female: 46.5 years (2017 est.)",45.5,44.4,46.5,-2.1000000000000014,"0-14 years: 13.65% (male 4,334,457/female 4,146,726)
+15-24 years: 9.66% (male 3,008,228/female 2,996,854)
+25-54 years: 42.16% (male 12,933,634/female 13,265,541)
+55-64 years: 12.99% (male 3,914,061/female 4,159,859)
+65 years and over: 21.53% (male 5,758,197/female 7,620,245) (2017 est.)",13.65,9.66,42.16,12.99,21.53,4334457,4146726,3008228,2996854,12933634,13265541,3914061,4159859,5758197,7620245,"3.7 migrant(s)/1,000 population (2017 est.)",3.7,8.6,10.4,-1.8000000000000007,Europe,82.3,79.6,85.1
+Jamaica,"18 15 N, 77 30 W",18.25,-77.5,"2,990,561 (July 2017 est.)",2990561,"total: 26 years
+male: 25.5 years
+female: 26.5 years (2017 est.)",26.0,25.5,26.5,-1.0,"0-14 years: 27.17% (male 413,325/female 399,190)
+15-24 years: 20.79% (male 312,400/female 309,477)
+25-54 years: 38.17% (male 564,414/female 577,059)
+55-64 years: 5.85% (male 84,271/female 90,612)
+65 years and over: 8.02% (male 107,310/female 132,503) (2017 est.)",27.17,20.79,38.17,5.85,8.02,413325,399190,312400,309477,564414,577059,84271,90612,107310,132503,"-4.3 migrant(s)/1,000 population (2017 est.)",-4.3,17.9,6.8,11.099999999999998,Central America and the Caribbean,73.7,72.1,75.4
+Japan,"36 00 N, 138 00 E",36.0,138.0,"126,451,398 (July 2017 est.)",126451398,"total: 47.3 years
+male: 46 years
+female: 48.7 years (2017 est.)",47.3,46.0,48.7,-2.700000000000003,"0-14 years: 12.84% (male 8,361,611/female 7,875,045)
+15-24 years: 9.64% (male 6,417,085/female 5,778,904)
+25-54 years: 37.5% (male 23,435,323/female 23,980,781)
+55-64 years: 12.15% (male 7,692,424/female 7,665,157)
+65 years and over: 27.87% (male 15,397,309/female 19,847,759) (2017 est.)",12.84,9.64,37.5,12.15,27.87,8361611,7875045,6417085,5778904,23435323,23980781,7692424,7665157,15397309,19847759,"0 migrant(s)/1,000 population (2017 est.)",0.0,7.7,9.8,-2.1000000000000005,Asia,85.3,81.9,88.8
+Jersey,"49 15 N, 2 10 W",49.25,-2.1666666666666665,"98,840 (July 2017 est.)",98840,"total: 38 years
+male: 36 years
+female: 40.7 years (2017 est.)",38.0,36.0,40.7,-4.700000000000003,"0-14 years: 16.23% (male 8,300/female 7,740)
+15-24 years: 13.91% (male 7,094/female 6,658)
+25-54 years: 40.99% (male 20,318/female 20,200)
+55-64 years: 12.53% (male 6,042/female 6,339)
+65 years and over: 16.34% (male 6,879/female 9,270) (2017 est.)",16.23,13.91,40.99,12.53,16.34,8300,7740,7094,6658,20318,20200,6042,6339,6879,9270,"3.2 migrant(s)/1,000 population (2017 est.)",3.2,12.4,7.8,4.6000000000000005,Europe,81.9,79.5,84.6
+Jordan,"31 00 N, 36 00 E",31.0,36.0,"10,248,069
+note: increased estimate reflects revised assumptions about the net migration rate due to the increased flow of Syrian refugees (July 2017 est.)",10248069,"total: 22.5 years
+male: 22.9 years
+female: 22 years (2017 est.)",22.5,22.9,22.0,0.8999999999999986,"0-14 years: 34.68% (male 1,827,554/female 1,726,691)
+15-24 years: 20.07% (male 1,103,042/female 953,704)
+25-54 years: 37.36% (male 2,073,211/female 1,755,290)
+55-64 years: 4.44% (male 236,435/female 218,469)
+65 years and over: 3.45% (male 174,470/female 179,203) (2017 est.)",34.68,20.07,37.36,4.44,3.45,1827554,1726691,1103042,953704,2073211,1755290,236435,218469,174470,179203,"0 migrant(s)/1,000 population (2017 est.)",0.0,23.9,3.4,20.5,Middle East,74.8,73.4,76.3
+Kazakhstan,"48 00 N, 68 00 E",48.0,68.0,"18,556,698 (July 2017 est.)",18556698,"total: 30.6 years
+male: 29.3 years
+female: 31.9 years (2017 est.)",30.6,29.3,31.9,-2.599999999999998,"0-14 years: 25.91% (male 2,374,427/female 2,434,212)
+15-24 years: 14.05% (male 1,329,376/female 1,277,615)
+25-54 years: 42.42% (male 3,847,282/female 4,024,052)
+55-64 years: 9.97% (male 810,019/female 1,040,917)
+65 years and over: 7.65% (male 494,064/female 924,734) (2017 est.)",25.91,14.05,42.42,9.97,7.65,2374427,2434212,1329376,1277615,3847282,4024052,810019,1040917,494064,924734,"0.4 migrant(s)/1,000 population (2017 est.)",0.4,18.1,8.1,10.000000000000002,Asia,71.1,65.9,76.0
+Kenya,"1 00 N, 38 00 E",1.0,38.0,"47,615,739
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",47615739,"total: 19.7 years
+male: 19.6 years
+female: 19.9 years (2017 est.)",19.7,19.6,19.9,-0.2999999999999972,"0-14 years: 40.02% (male 9,557,274/female 9,497,870)
+15-24 years: 19.15% (male 4,552,448/female 4,567,894)
+25-54 years: 33.91% (male 8,170,264/female 7,976,751)
+55-64 years: 3.92% (male 856,092/female 1,009,075)
+65 years and over: 3% (male 614,751/female 813,320) (2017 est.)",40.02,19.15,33.91,3.92,3.0,9557274,9497870,4552448,4567894,8170264,7976751,856092,1009075,614751,813320,"-0.2 migrant(s)/1,000 population (2017 est.)",-0.2,23.9,6.7,17.2,Africa,64.3,62.8,65.8
+Kiribati,"1 25 N, 173 00 E",1.4166666666666667,173.0,"108,145 (July 2017 est.)",108145,"total: 24.6 years
+male: 23.8 years
+female: 25.5 years (2017 est.)",24.6,23.8,25.5,-1.6999999999999993,"0-14 years: 29.68% (male 16,360/female 15,734)
+15-24 years: 21.07% (male 11,282/female 11,503)
+25-54 years: 38.98% (male 20,300/female 21,860)
+55-64 years: 6.04% (male 2,942/female 3,590)
+65 years and over: 4.23% (male 1,802/female 2,772) (2017 est.)",29.68,21.07,38.98,6.04,4.23,16360,15734,11282,11503,20300,21860,2942,3590,1802,2772,"-2.9 migrant(s)/1,000 population (2017 est.)",-2.9,21.2,7.0,14.2,Oceania,66.5,64.0,69.1
+"Korea, North","40 00 N, 127 00 E",40.0,127.0,"25,248,140 (July 2017 est.)",25248140,"total: 34 years
+male: 32.5 years
+female: 35.6 years (2017 est.)",34.0,32.5,35.6,-3.1000000000000014,"0-14 years: 20.78% (male 2,670,884/female 2,576,846)
+15-24 years: 15.59% (male 1,982,045/female 1,955,220)
+25-54 years: 44.28% (male 5,608,520/female 5,572,000)
+55-64 years: 9.77% (male 1,166,680/female 1,301,201)
+65 years and over: 9.56% (male 826,735/female 1,588,009) (2017 est.)",20.78,15.59,44.28,9.77,9.56,2670884,2576846,1982045,1955220,5608520,5572000,1166680,1301201,826735,1588009,"0 migrant(s)/1,000 population (2017 est.)",0.0,14.6,9.3,5.299999999999999,Asia,70.7,66.9,74.8
+"Korea, South","37 00 N, 127 30 E",37.0,127.5,"51,181,299 (July 2017 est.)",51181299,"total: 41.8 years
+male: 40.2 years
+female: 43.4 years (2017 est.)",41.8,40.2,43.4,-3.1999999999999957,"0-14 years: 13.21% (male 3,484,398/female 3,276,984)
+15-24 years: 12.66% (male 3,415,998/female 3,065,144)
+25-54 years: 45.52% (male 11,992,462/female 11,303,726)
+55-64 years: 14.49% (male 3,660,888/female 3,756,947)
+65 years and over: 14.12% (male 3,080,601/female 4,144,151) (2017 est.)",13.21,12.66,45.52,14.49,14.12,3484398,3276984,3415998,3065144,11992462,11303726,3660888,3756947,3080601,4144151,"2.5 migrant(s)/1,000 population (2017 est.)",2.5,8.3,6.0,2.3000000000000007,Asia,82.5,79.3,85.8
+Kuwait,"29 30 N, 45 45 E",29.5,45.75,"2,875,422 (July 2017 est.)
+note: Kuwait's Public Authority for Civil Information estimates the country's total population to be 4,437,590 for 2017, with immigrants accounting for more than 69.5%",2875422,"total: 29.3 years
+male: 30.4 years
+female: 27.4 years (2017 est.)",29.3,30.4,27.4,3.0,"0-14 years: 25.02% (male 374,259/female 345,104)
+15-24 years: 15.1% (male 238,451/female 195,700)
+25-54 years: 52.27% (male 948,902/female 554,050)
+55-64 years: 5.07% (male 82,366/female 63,505)
+65 years and over: 2.54% (male 33,561/female 39,524) (2017 est.)",25.02,15.1,52.27,5.07,2.54,374259,345104,238451,195700,948902,554050,82366,63505,33561,39524,"-2.4 migrant(s)/1,000 population (2017 est.)",-2.4,19.2,2.2,17.0,Middle East,78.2,76.8,79.6
+Kyrgyzstan,"41 00 N, 75 00 E",41.0,75.0,"5,789,122 (July 2017 est.)",5789122,"total: 26.5 years
+male: 25.4 years
+female: 27.6 years (2017 est.)",26.5,25.4,27.6,-2.200000000000003,"0-14 years: 30.3% (male 899,545/female 854,745)
+15-24 years: 16.79% (male 493,924/female 478,217)
+25-54 years: 39.84% (male 1,130,422/female 1,175,729)
+55-64 years: 7.8% (male 196,856/female 254,694)
+65 years and over: 5.27% (male 116,584/female 188,406) (2017 est.)",30.3,16.79,39.84,7.8,5.27,899545,854745,493924,478217,1130422,1175729,196856,254694,116584,188406,"-5.1 migrant(s)/1,000 population (2017 est.)",-5.1,22.1,6.5,15.6,Asia,70.9,66.8,75.4
+Laos,"18 00 N, 105 00 E",18.0,105.0,"7,126,706 (July 2017 est.)",7126706,"total: 23 years
+male: 22.7 years
+female: 23.3 years (2017 est.)",23.0,22.7,23.3,-0.6000000000000014,"0-14 years: 32.76% (male 1,180,227/female 1,154,550)
+15-24 years: 21.17% (male 749,312/female 759,677)
+25-54 years: 36.7% (male 1,290,768/female 1,324,390)
+55-64 years: 5.48% (male 190,627/female 199,673)
+65 years and over: 3.89% (male 125,682/female 151,800) (2017 est.)",32.76,21.17,36.7,5.48,3.89,1180227,1154550,749312,759677,1290768,1324390,190627,199673,125682,151800,"-1.1 migrant(s)/1,000 population (2017 est.)",-1.1,23.6,7.4,16.200000000000006,Southeast Asia,64.6,62.6,66.7
+Latvia,"57 00 N, 25 00 E",57.0,25.0,"1,944,643 (July 2017 est.)",1944643,"total: 43.6 years
+male: 39.7 years
+female: 46.9 years (2017 est.)",43.6,39.7,46.9,-7.1999999999999975,"0-14 years: 15.15% (male 151,195/female 143,388)
+15-24 years: 9.45% (male 94,779/female 88,952)
+25-54 years: 41.75% (male 403,699/female 408,277)
+55-64 years: 14.1% (male 121,993/female 152,260)
+65 years and over: 19.55% (male 124,570/female 255,530) (2017 est.)",15.15,9.45,41.75,14.1,19.55,151195,143388,94779,88952,403699,408277,121993,152260,124570,255530,"-6.1 migrant(s)/1,000 population (2017 est.)",-6.1,9.7,14.5,-4.800000000000002,Europe,74.7,70.1,79.5
+Lebanon,"33 50 N, 35 50 E",33.833333333333336,35.833333333333336,"6,229,794 (July 2017 est.)",6229794,"total: 30.5 years
+male: 29.9 years
+female: 31.1 years (2017 est.)",30.5,29.9,31.1,-1.2000000000000028,"0-14 years: 24.09% (male 768,282/female 732,773)
+15-24 years: 16.42% (male 523,380/female 499,582)
+25-54 years: 44.79% (male 1,412,114/female 1,378,464)
+55-64 years: 7.91% (male 232,198/female 260,685)
+65 years and over: 6.78% (male 183,995/female 238,321) (2017 est.)",24.09,16.42,44.79,7.91,6.78,768282,732773,523380,499582,1412114,1378464,232198,260685,183995,238321,"-20.3 migrant(s)/1,000 population (2017 est.)",-20.3,14.3,5.0,9.3,Middle East,77.8,76.5,79.1
+Lesotho,"29 30 S, 28 30 E",-29.5,28.5,"1,958,042
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",1958042,"total: 24.2 years
+male: 24.2 years
+female: 24.2 years (2017 est.)",24.2,24.2,24.2,0.0,"0-14 years: 32.12% (male 316,106/female 312,869)
+15-24 years: 19.43% (male 181,481/female 199,039)
+25-54 years: 37.94% (male 362,798/female 380,001)
+55-64 years: 5.01% (male 52,293/female 45,828)
+65 years and over: 5.5% (male 55,163/female 52,464) (2017 est.)",32.12,19.43,37.94,5.01,5.5,316106,312869,181481,199039,362798,380001,52293,45828,55163,52464,"-6.8 migrant(s)/1,000 population (2017 est.)",-6.8,24.6,15.0,9.6,Africa,53.0,53.0,53.1
+Liberia,"6 30 N, 9 30 W",6.5,-9.5,"4,689,021 (July 2017 est.)",4689021,"total: 17.8 years
+male: 17.5 years
+female: 18 years (2017 est.)",17.8,17.5,18.0,-0.5,"0-14 years: 43.82% (male 1,038,452/female 1,016,491)
+15-24 years: 19.56% (male 457,806/female 459,289)
+25-54 years: 30.33% (male 699,879/female 722,244)
+55-64 years: 3.43% (male 82,616/female 78,003)
+65 years and over: 2.86% (male 65,979/female 68,262) (2017 est.)",43.82,19.56,30.33,3.43,2.86,1038452,1016491,457806,459289,699879,722244,82616,78003,65979,68262,"-5.7 migrant(s)/1,000 population (2017 est.)",-5.7,38.3,7.6,30.7,Africa,63.3,61.2,65.5
+Libya,"25 00 N, 17 00 E",25.0,17.0,"6,653,210 (July 2017 est.)
+note: immigrants make up just over 12% of the total population, according to UN data (2017)",6653210,"total: 28.9 years
+male: 29.1 years
+female: 28.7 years (2017 est.)",28.9,29.1,28.7,0.4000000000000021,"0-14 years: 25.84% (male 879,311/female 839,824)
+15-24 years: 17.09% (male 584,117/female 552,680)
+25-54 years: 47.28% (male 1,651,362/female 1,494,106)
+55-64 years: 5.48% (male 185,679/female 179,224)
+65 years and over: 4.31% (male 141,867/female 145,040) (2017 est.)",25.84,17.09,47.28,5.48,4.31,879311,839824,584117,552680,1651362,1494106,185679,179224,141867,145040,"1.9 migrant(s)/1,000 population (2017 est.)",1.9,17.5,3.6,13.9,Africa,76.7,74.9,78.5
+Liechtenstein,"47 16 N, 9 32 E",47.26666666666666,9.533333333333333,"38,244 (July 2017 est.)",38244,"total: 43.2 years
+male: 41.7 years
+female: 44.5 years (2017 est.)",43.2,41.7,44.5,-2.799999999999997,"0-14 years: 15.26% (male 3,148/female 2,689)
+15-24 years: 11.65% (male 2,239/female 2,217)
+25-54 years: 41.64% (male 7,956/female 7,969)
+55-64 years: 14.03% (male 2,607/female 2,760)
+65 years and over: 17.41% (male 3,058/female 3,601) (2017 est.)",15.26,11.65,41.64,14.03,17.41,3148,2689,2239,2217,7956,7969,2607,2760,3058,3601,"5 migrant(s)/1,000 population (2017 est.)",5.0,10.4,7.4,3.0,Europe,81.9,79.7,84.7
+Lithuania,"56 00 N, 24 00 E",56.0,24.0,"2,823,859 (July 2017 est.)",2823859,"total: 43.7 years
+male: 39.7 years
+female: 47.1 years (2017 est.)",43.7,39.7,47.1,-7.399999999999999,"0-14 years: 15.01% (male 217,438/female 206,533)
+15-24 years: 11.09% (male 161,965/female 151,197)
+25-54 years: 40.05% (male 557,504/female 573,364)
+55-64 years: 14.17% (male 177,157/female 223,110)
+65 years and over: 19.67% (male 187,859/female 367,732) (2017 est.)",15.01,11.09,40.05,14.17,19.67,217438,206533,161965,151197,557504,573364,177157,223110,187859,367732,"-6.1 migrant(s)/1,000 population (2017 est.)",-6.1,9.9,14.6,-4.699999999999998,Europe,75.0,69.7,80.7
+Luxembourg,"49 45 N, 6 10 E",49.75,6.166666666666668,"594,130 (July 2017 est.)",594130,"total: 39.3 years
+male: 38.7 years
+female: 39.9 years (2017 est.)",39.3,38.7,39.9,-1.1999999999999955,"0-14 years: 16.77% (male 51,333/female 48,296)
+15-24 years: 12.18% (male 37,047/female 35,310)
+25-54 years: 44.27% (male 134,986/female 128,028)
+55-64 years: 11.77% (male 35,450/female 34,457)
+65 years and over: 15.02% (male 39,786/female 49,437) (2017 est.)",16.77,12.18,44.27,11.77,15.02,51333,48296,37047,35310,134986,128028,35450,34457,39786,49437,"15.5 migrant(s)/1,000 population (2017 est.)",15.5,11.5,7.3,4.2,Europe,82.3,79.9,84.9
+Macau,"22 10 N, 113 33 E",22.16666666666667,113.55,"601,969 (July 2017 est.)
+note: Macau's statistical agency estimated the total population to be approximately 648,550 as of September 2017",601969,"total: 39.3 years
+male: 39.5 years
+female: 39.1 years (2017 est.)",39.3,39.5,39.1,0.3999999999999986,"0-14 years: 14.1% (male 44,133/female 40,764)
+15-24 years: 11.73% (male 37,194/female 33,418)
+25-54 years: 50.1% (male 134,244/female 167,318)
+55-64 years: 13.5% (male 40,837/female 40,423)
+65 years and over: 10.57% (male 29,764/female 33,874) (2017 est.)",14.1,11.73,50.1,13.5,10.57,44133,40764,37194,33418,134244,167318,40837,40423,29764,33874,"3.3 migrant(s)/1,000 population (2017 est.)",3.3,8.6,4.5,4.1,Southeast Asia,84.6,81.6,87.7
+Macedonia,"41 50 N, 22 00 E",41.833333333333336,22.0,"2,103,721 (July 2017 est.)",2103721,"total: 37.9 years
+male: 36.8 years
+female: 39 years (2017 est.)",37.9,36.8,39.0,-2.200000000000003,"0-14 years: 17.17% (male 187,063/female 174,196)
+15-24 years: 13.41% (male 145,716/female 136,444)
+25-54 years: 43.6% (male 465,862/female 451,321)
+55-64 years: 12.41% (male 128,024/female 132,955)
+65 years and over: 13.41% (male 121,019/female 161,121) (2017 est.)",17.17,13.41,43.6,12.41,13.41,187063,174196,145716,136444,465862,451321,128024,132955,121019,161121,"-0.5 migrant(s)/1,000 population (2017 est.)",-0.5,11.4,9.2,2.200000000000001,Europe,76.4,73.8,79.2
+Madagascar,"20 00 S, 47 00 E",-20.0,47.0,"25,054,161 (July 2017 est.)",25054161,"total: 19.7 years
+male: 19.5 years
+female: 19.9 years (2017 est.)",19.7,19.5,19.9,-0.3999999999999986,"0-14 years: 39.87% (male 5,035,160/female 4,952,909)
+15-24 years: 20.34% (male 2,556,130/female 2,538,644)
+25-54 years: 32.12% (male 4,022,698/female 4,025,038)
+55-64 years: 4.38% (male 535,300/female 560,932)
+65 years and over: 3.3% (male 374,770/female 452,580) (2017 est.)",39.87,20.34,32.12,4.38,3.3,5035160,4952909,2556130,2538644,4022698,4025038,535300,560932,374770,452580,"0 migrant(s)/1,000 population (2017 est.)",0.0,31.6,6.5,25.1,Africa,66.3,64.7,67.8
+Malawi,"13 30 S, 34 00 E",-13.5,34.0,"19,196,246
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",19196246,"total: 16.5 years
+male: 16.4 years
+female: 16.7 years (2017 est.)",16.5,16.4,16.7,-0.3000000000000007,"0-14 years: 46.34% (male 4,427,403/female 4,468,120)
+15-24 years: 20.55% (male 1,956,360/female 1,988,123)
+25-54 years: 27.41% (male 2,612,840/female 2,648,997)
+55-64 years: 3.01% (male 275,998/female 302,286)
+65 years and over: 2.69% (male 227,582/female 288,537) (2017 est.)",46.34,20.55,27.41,3.01,2.69,4427403,4468120,1956360,1988123,2612840,2648997,275998,302286,227582,288537,"0 migrant(s)/1,000 population (2017 est.)",0.0,41.0,7.9,33.1,Africa,61.7,59.7,63.8
+Malaysia,"2 30 N, 112 30 E",2.5,112.5,"31,381,992 (July 2017 est.)",31381992,"total: 28.5 years
+male: 28.2 years
+female: 28.8 years (2017 est.)",28.5,28.2,28.8,-0.6000000000000014,"0-14 years: 27.83% (male 4,493,084/female 4,238,991)
+15-24 years: 16.81% (male 2,677,834/female 2,598,958)
+25-54 years: 41% (male 6,507,499/female 6,358,762)
+55-64 years: 8.27% (male 1,316,331/female 1,277,558)
+65 years and over: 6.1% (male 907,850/female 1,005,125) (2017 est.)",27.83,16.81,41.0,8.27,6.1,4493084,4238991,2677834,2598958,6507499,6358762,1316331,1277558,907850,1005125,"-0.3 migrant(s)/1,000 population (2017 est.)",-0.3,19.1,5.1,14.000000000000002,Southeast Asia,75.2,72.4,78.2
+Maldives,"3 15 N, 73 00 E",3.25,73.0,"392,709 (July 2017 est.)",392709,"total: 28.2 years
+male: 28.1 years
+female: 28.3 years (2017 est.)",28.2,28.1,28.3,-0.1999999999999993,"0-14 years: 21.4% (male 42,871/female 41,162)
+15-24 years: 20.21% (male 45,547/female 33,804)
+25-54 years: 48.1% (male 106,701/female 82,187)
+55-64 years: 5.85% (male 11,312/female 11,667)
+65 years and over: 4.45% (male 8,042/female 9,416) (2017 est.)",21.4,20.21,48.1,5.85,4.45,42871,41162,45547,33804,106701,82187,11312,11667,8042,9416,"-12.7 migrant(s)/1,000 population (2017 est.)",-12.7,16.1,4.0,12.1,Asia,75.8,73.5,78.3
+Mali,"17 00 N, 4 00 W",17.0,-4.0,"17,885,245 (July 2017 est.)",17885245,"total: 15.8 years
+male: 15.1 years
+female: 16.4 years (2017 est.)",15.8,15.1,16.4,-1.299999999999999,"0-14 years: 48.17% (male 4,330,370/female 4,285,171)
+15-24 years: 18.84% (male 1,604,914/female 1,765,479)
+25-54 years: 26.26% (male 2,171,171/female 2,525,109)
+55-64 years: 3.7% (male 335,023/female 326,910)
+65 years and over: 3.03% (male 270,856/female 270,242) (2017 est.)",48.17,18.84,26.26,3.7,3.03,4330370,4285171,1604914,1765479,2171171,2525109,335023,326910,270856,270242,"-3.9 migrant(s)/1,000 population (2017 est.)",-3.9,43.9,9.8,34.099999999999994,Africa,60.3,58.2,62.5
+Malta,"35 50 N, 14 35 E",35.833333333333336,14.583333333333336,"416,338 (July 2017 est.)",416338,"total: 41.8 years
+male: 40.8 years
+female: 43 years (2017 est.)",41.8,40.8,43.0,-2.200000000000003,"0-14 years: 15.04% (male 32,128/female 30,490)
+15-24 years: 11.44% (male 24,471/female 23,142)
+25-54 years: 39.98% (male 85,158/female 81,303)
+55-64 years: 13.98% (male 28,919/female 29,298)
+65 years and over: 19.56% (male 36,743/female 44,686) (2017 est.)",15.04,11.44,39.98,13.98,19.56,32128,30490,24471,23142,85158,81303,28919,29298,36743,44686,"2 migrant(s)/1,000 population (2017 est.)",2.0,10.1,9.4,0.6999999999999993,Europe,80.5,78.1,83.0
+Marshall Islands,"9 00 N, 168 00 E",9.0,168.0,"74,539 (July 2017 est.)",74539,"total: 22.9 years
+male: 22.8 years
+female: 23 years (2017 est.)",22.9,22.8,23.0,-0.1999999999999993,"0-14 years: 34.89% (male 13,261/female 12,743)
+15-24 years: 18% (male 6,820/female 6,594)
+25-54 years: 37.28% (male 14,147/female 13,642)
+55-64 years: 5.82% (male 2,189/female 2,148)
+65 years and over: 4.02% (male 1,475/female 1,520) (2017 est.)",34.89,18.0,37.28,5.82,4.02,13261,12743,6820,6594,14147,13642,2189,2148,1475,1520,"-4.7 migrant(s)/1,000 population (2017 est.)",-4.7,24.4,4.2,20.2,Oceania,73.4,71.2,75.7
+Mauritania,"20 00 N, 12 00 W",20.0,-12.0,"3,758,571 (July 2017 est.)",3758571,"total: 20.5 years
+male: 19.5 years
+female: 21.4 years (2017 est.)",20.5,19.5,21.4,-1.8999999999999984,"0-14 years: 38.56% (male 727,855/female 721,508)
+15-24 years: 19.81% (male 364,570/female 379,866)
+25-54 years: 33.21% (male 578,422/female 669,628)
+55-64 years: 4.67% (male 79,162/female 96,297)
+65 years and over: 3.76% (male 59,928/female 81,335) (2017 est.)",38.56,19.81,33.21,4.67,3.76,727855,721508,364570,379866,578422,669628,79162,96297,59928,81335,"-0.8 migrant(s)/1,000 population (2017 est.)",-0.8,30.4,7.9,22.5,Africa,63.4,61.1,65.8
+Mauritius,"20 17 S, 57 33 E",-20.283333333333328,57.55,"1,356,388 (July 2017 est.)",1356388,"total: 35.3 years
+male: 34.2 years
+female: 36.3 years (2017 est.)",35.3,34.2,36.3,-2.0999999999999943,"0-14 years: 20.16% (male 139,721/female 133,765)
+15-24 years: 14.8% (male 101,453/female 99,288)
+25-54 years: 43.74% (male 296,795/female 296,485)
+55-64 years: 11.59% (male 74,650/female 82,585)
+65 years and over: 9.71% (male 53,985/female 77,661) (2017 est.)",20.16,14.8,43.74,11.59,9.71,139721,133765,101453,99288,296795,296485,74650,82585,53985,77661,"0 migrant(s)/1,000 population (2017 est.)",0.0,13.0,7.1,5.9,Africa,75.8,72.4,79.5
+Mexico,"23 00 N, 102 00 W",23.0,-102.0,"124,574,795 (July 2017 est.)",124574795,"total: 28.3 years
+male: 27.2 years
+female: 29.4 years (2017 est.)",28.3,27.2,29.4,-2.2,"0-14 years: 26.93% (male 17,155,689/female 16,390,913)
+15-24 years: 17.54% (male 11,065,927/female 10,778,382)
+25-54 years: 40.81% (male 24,550,848/female 26,282,836)
+55-64 years: 7.64% (male 4,362,868/female 5,160,514)
+65 years and over: 7.09% (male 3,949,823/female 4,876,995) (2017 est.)",26.93,17.54,40.81,7.64,7.09,17155689,16390913,11065927,10778382,24550848,26282836,4362868,5160514,3949823,4876995,"-1.8 migrant(s)/1,000 population (2017 est.)",-1.8,18.3,5.3,13.0,North America,76.1,73.3,79.0
+"Micronesia, Federated States of","6 55 N, 158 15 E",6.916666666666668,158.25,"104,196 (July 2017 est.)",104196,"24total: 25.1 years
+male: 24.4 years
+female: 25.8 years (2017 est.)",25.1,24.4,25.8,-1.4000000000000021,"0-14 years: 30.3% (male 16,050/female 15,520)
+15-24 years: 19.59% (male 10,236/female 10,173)
+25-54 years: 39.19% (male 19,737/female 21,094)
+55-64 years: 6.99% (male 3,560/female 3,727)
+65 years and over: 3.93% (male 1,849/female 2,250) (2017 est.)",30.3,19.59,39.19,6.99,3.93,16050,15520,10236,10173,19737,21094,3560,3727,1849,2250,"-20.9 migrant(s)/1,000 population (2017 est.)",-20.9,20.0,4.2,15.8,Oceania,73.1,71.1,75.3
+Moldova,"47 00 N, 29 00 E",47.0,29.0,"3,474,121 (July 2017 est.)",3474121,"total: 36.7 years
+male: 34.9 years
+female: 38.6 years (2017 est.)",36.7,34.9,38.6,-3.700000000000003,"0-14 years: 18.18% (male 325,501/female 305,931)
+15-24 years: 12.32% (male 221,582/female 206,458)
+25-54 years: 43.4% (male 760,511/female 747,352)
+55-64 years: 13.46% (male 214,565/female 252,924)
+65 years and over: 12.64% (male 171,347/female 267,950) (2017 est.)",18.18,12.32,43.4,13.46,12.64,325501,305931,221582,206458,760511,747352,214565,252924,171347,267950,"-9.4 migrant(s)/1,000 population (2017 est.)",-9.4,11.5,12.6,-1.0999999999999996,Europe,71.0,67.1,75.1
+Monaco,"43 44 N, 7 24 E",43.73333333333333,7.4,"30,645 (July 2017 est.)
+note: immigrants make up almost 55% of the total population, according to UN data (2017)",30645,"total: 53.1 years
+male: 51.7 years
+female: 54.5 years (2017 est.)",53.1,51.7,54.5,-2.799999999999997,"0-14 years: 10.68% (male 1,685/female 1,587)
+15-24 years: 9.27% (male 1,464/female 1,376)
+25-54 years: 32.91% (male 5,067/female 5,018)
+55-64 years: 14.94% (male 2,286/female 2,292)
+65 years and over: 32.21% (male 4,387/female 5,483) (2017 est.)",10.68,9.27,32.91,14.94,32.21,1685,1587,1464,1376,5067,5018,2286,2292,4387,5483,"5.7 migrant(s)/1,000 population (2017 est.)",5.7,6.6,9.8,-3.200000000000001,Europe,89.4,85.6,93.5
+Mongolia,"46 00 N, 105 00 E",46.0,105.0,"3,068,243
+note: Mongolia is one of the least densely populated countries in the world (2 people per sq km); twice as many ethnic Mongols (some 6 million) live in Inner Mongolia (Nei Mongol) in neighboring China (July 2017 est.)",3068243,"total: 28.3 years
+male: 27.5 years
+female: 29.2 years (2017 est.)",28.3,27.5,29.2,-1.6999999999999993,"0-14 years: 26.95% (male 421,675/female 405,298)
+15-24 years: 16.09% (male 249,805/female 243,784)
+25-54 years: 45.6% (male 677,679/female 721,435)
+55-64 years: 7.07% (male 99,099/female 117,818)
+65 years and over: 4.29% (male 53,364/female 78,286) (2017 est.)",26.95,16.09,45.6,7.07,4.29,421675,405298,249805,243784,677679,721435,99099,117818,53364,78286,"-0.8 migrant(s)/1,000 population (2017 est.)",-0.8,18.9,6.3,12.599999999999998,Asia,69.9,65.7,74.4
+Montserrat,"16 45 N, 62 12 W",16.75,-62.2,"5,292
+note: an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned (July 2017 est.)",5292,"total: 33.2 years
+male: 32.6 years
+female: 33.7 years (2017 est.)",33.2,32.6,33.7,-1.1000000000000014,"0-14 years: 16.5% (male 449/female 424)
+15-24 years: 21.52% (male 599/female 540)
+25-54 years: 47.43% (male 1,201/female 1,309)
+55-64 years: 8.45% (male 194/female 253)
+65 years and over: 6.1% (male 199/female 124) (2017 est.)",16.5,21.52,47.43,8.45,6.1,449,424,599,540,1201,1309,194,253,199,124,"0 migrant(s)/1,000 population (2017 est.)",0.0,10.8,6.2,4.6000000000000005,Central America and the Caribbean,74.6,75.9,73.2
+Morocco,"32 00 N, 5 00 W",32.0,-5.0,"33,986,655 (July 2017 est.)",33986655,"total: 29.3 years
+male: 28.6 years
+female: 29.9 years (2017 est.)",29.3,28.6,29.9,-1.2999999999999972,"0-14 years: 25.77% (male 4,450,360/female 4,308,955)
+15-24 years: 17.04% (male 2,879,828/female 2,910,029)
+25-54 years: 42.32% (male 6,956,186/female 7,428,129)
+55-64 years: 8.13% (male 1,365,611/female 1,398,553)
+65 years and over: 6.74% (male 1,034,188/female 1,254,816) (2017 est.)",25.77,17.04,42.32,8.13,6.74,4450360,4308955,2879828,2910029,6956186,7428129,1365611,1398553,1034188,1254816,"-3.2 migrant(s)/1,000 population (2017 est.)",-3.2,17.7,4.9,12.8,Africa,77.1,74.0,80.3
+Mozambique,"18 15 S, 35 00 E",-18.25,35.0,"26,573,706
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",26573706,"total: 17.2 years
+male: 16.6 years
+female: 17.8 years (2017 est.)",17.2,16.6,17.8,-1.1999999999999993,"0-14 years: 44.72% (male 5,975,407/female 5,908,511)
+15-24 years: 21.57% (male 2,824,012/female 2,907,033)
+25-54 years: 27.42% (male 3,409,425/female 3,875,837)
+55-64 years: 3.4% (male 435,203/female 468,939)
+65 years and over: 2.9% (male 352,546/female 416,793) (2017 est.)",44.72,21.57,27.42,3.4,2.9,5975407,5908511,2824012,2907033,3409425,3875837,435203,468939,352546,416793,"-1.9 migrant(s)/1,000 population (2017 est.)",-1.9,38.1,11.6,26.5,Africa,53.7,52.9,54.5
+Namibia,"22 00 S, 17 00 E",-22.0,17.0,"2,484,780
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",2484780,"total: 21.2 years
+male: 20.4 years
+female: 21.9 years (2017 est.)",21.2,20.4,21.9,-1.5,"0-14 years: 36.97% (male 463,810/female 454,735)
+15-24 years: 20.35% (male 251,838/female 253,823)
+25-54 years: 34.37% (male 408,536/female 445,500)
+55-64 years: 4.35% (male 48,529/female 59,543)
+65 years and over: 3.96% (male 41,912/female 56,554) (2017 est.)",36.97,20.35,34.37,4.35,3.96,463810,454735,251838,253823,408536,445500,48529,59543,41912,56554,"0 migrant(s)/1,000 population (2017 est.)",0.0,27.3,7.9,19.4,Africa,64.0,62.4,65.6
+Nauru,"0 32 S, 166 55 E",-0.5333333333333333,166.91666666666666,"11,359 (July 2017 est.)",11359,"total: 26.4 years
+male: 27 years
+female: 25.7 years (2017 est.)",26.4,27.0,25.7,1.3000000000000007,"0-14 years: 31.4% (male 1,323/female 1,705)
+15-24 years: 16.21% (male 766/female 797)
+25-54 years: 43.4% (male 2,112/female 2,073)
+55-64 years: 6.38% (male 240/female 375)
+65 years and over: 2.6% (male 96/female 155) (2017 est.)",31.4,16.21,43.4,6.38,2.6,1323,1705,766,797,2112,2073,240,375,96,155,"-12.8 migrant(s)/1,000 population (2017 est.)",-12.8,24.0,5.9,18.1,Oceania,67.4,63.3,70.9
+Nepal,"28 00 N, 84 00 E",28.0,84.0,"29,384,297 (July 2017 est.)",29384297,"total: 24.1 years
+male: 22.8 years
+female: 25.3 years (2017 est.)",24.1,22.8,25.3,-2.5,"0-14 years: 30.2% (male 4,610,861/female 4,264,580)
+15-24 years: 21.73% (male 3,220,431/female 3,164,292)
+25-54 years: 36.58% (male 4,847,427/female 5,900,442)
+55-64 years: 6.32% (male 897,999/female 959,405)
+65 years and over: 5.17% (male 753,771/female 765,089) (2017 est.)",30.2,21.73,36.58,6.32,5.17,4610861,4264580,3220431,3164292,4847427,5900442,897999,959405,753771,765089,"-2.2 migrant(s)/1,000 population (2017 est.)",-2.2,19.5,5.6,13.9,Asia,71.0,70.4,71.6
+Netherlands,"52 30 N, 5 45 E",52.5,5.75,"17,084,719 (July 2017 est.)",17084719,"total: 42.6 years
+male: 41.5 years
+female: 43.6 years (2017 est.)",42.6,41.5,43.6,-2.1000000000000014,"0-14 years: 16.41% (male 1,434,919/female 1,368,437)
+15-24 years: 12.07% (male 1,051,319/female 1,010,969)
+25-54 years: 39.52% (male 3,387,716/female 3,364,010)
+55-64 years: 13.28% (male 1,128,484/female 1,139,703)
+65 years and over: 18.73% (male 1,449,752/female 1,749,410) (2017 est.)",16.41,12.07,39.52,13.28,18.73,1434919,1368437,1051319,1010969,3387716,3364010,1128484,1139703,1449752,1749410,"1.9 migrant(s)/1,000 population (2017 est.)",1.9,10.9,8.9,2.0,Europe,81.4,79.3,83.7
+New Caledonia,"21 30 S, 165 30 E",-21.5,165.5,"279,070 (July 2017 est.)",279070,"total: 32 years
+male: 31.2 years
+female: 32.7 years (2017 est.)",32.0,31.2,32.7,-1.5000000000000036,"0-14 years: 22.46% (male 32,025/female 30,648)
+15-24 years: 16.44% (male 23,438/female 22,438)
+25-54 years: 43.5% (male 61,169/female 60,232)
+55-64 years: 8.4% (male 11,352/female 12,097)
+65 years and over: 9.2% (male 11,396/female 14,275) (2017 est.)",22.46,16.44,43.5,8.4,9.2,32025,30648,23438,22438,61169,60232,11352,12097,11396,14275,"3.9 migrant(s)/1,000 population
+note: there has been steady emigration from Wallis and Futuna to New Caledonia (2017 est.)",3.9,15.0,5.7,9.3,Oceania,77.9,73.9,82.0
+New Zealand,"41 00 S, 174 00 E",-41.0,174.0,"4,510,327 (July 2017 est.)",4510327,"total: 37.9 years
+male: 37.1 years
+female: 38.8 years (2017 est.)",37.9,37.1,38.8,-1.6999999999999955,"0-14 years: 19.69% (male 454,982/female 432,877)
+15-24 years: 13.35% (male 309,707/female 292,586)
+25-54 years: 39.82% (male 900,374/female 895,615)
+55-64 years: 11.89% (male 261,097/female 275,151)
+65 years and over: 15.25% (male 318,089/female 369,849) (2017 est.)",19.69,13.35,39.82,11.89,15.25,454982,432877,309707,292586,900374,895615,261097,275151,318089,369849,"2.2 migrant(s)/1,000 population (2017 est.)",2.2,13.2,7.5,5.6999999999999975,Oceania,81.3,79.1,83.5
+Nicaragua,"13 00 N, 85 00 W",13.0,-85.0,"6,025,951 (July 2017 est.)",6025951,"total: 25.7 years
+male: 24.8 years
+female: 26.6 years (2017 est.)",25.7,24.8,26.6,-1.8000000000000007,"0-14 years: 27.24% (male 837,465/female 803,985)
+15-24 years: 21.26% (male 644,153/female 636,787)
+25-54 years: 40.24% (male 1,149,747/female 1,274,818)
+55-64 years: 5.98% (male 166,782/female 193,781)
+65 years and over: 5.28% (male 141,816/female 176,617) (2017 est.)",27.24,21.26,40.24,5.98,5.28,837465,803985,644153,636787,1149747,1274818,166782,193781,141816,176617,"-2.7 migrant(s)/1,000 population (2017 est.)",-2.7,17.7,5.1,12.6,Central America and the Caribbean,73.5,71.3,75.8
+Niger,"16 00 N, 8 00 E",16.0,8.0,"19,245,344 (July 2017 est.)",19245344,"total: 15.4 years
+male: 15.3 years
+female: 15.5 years (2017 est.)",15.4,15.3,15.5,-0.1999999999999993,"0-14 years: 49.01% (male 4,757,806/female 4,674,437)
+15-24 years: 19.1% (male 1,815,689/female 1,860,230)
+25-54 years: 25.97% (male 2,495,927/female 2,501,362)
+55-64 years: 3.28% (male 328,082/female 304,030)
+65 years and over: 2.64% (male 259,046/female 248,735) (2017 est.)",49.01,19.1,25.97,3.28,2.64,4757806,4674437,1815689,1860230,2495927,2501362,328082,304030,259046,248735,"-0.5 migrant(s)/1,000 population (2017 est.)",-0.5,44.2,11.8,32.40000000000001,Africa,55.9,54.7,57.3
+Nigeria,"10 00 N, 8 00 E",10.0,8.0,"190,632,261
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",190632261,"total: 18.4 years
+male: 18.3 years
+female: 18.5 years (2017 est.)",18.4,18.3,18.5,-0.1999999999999993,"0-14 years: 42.54% (male 41,506,288/female 39,595,720)
+15-24 years: 19.61% (male 19,094,899/female 18,289,513)
+25-54 years: 30.74% (male 30,066,196/female 28,537,846)
+55-64 years: 3.97% (male 3,699,947/female 3,870,080)
+65 years and over: 3.13% (male 2,825,134/female 3,146,638) (2017 est.)",42.54,19.61,30.74,3.97,3.13,41506288,39595720,19094899,18289513,30066196,28537846,3699947,3870080,2825134,3146638,"-0.2 migrant(s)/1,000 population (2017 est.)",-0.2,36.9,12.4,24.5,Africa,53.8,52.8,55.0
+Northern Mariana Islands,"15 12 N, 145 45 E",15.2,145.75,"52,263 (July 2017 est.)",52263,"total: 33.6 years
+male: 32.8 years
+female: 34.4 years (2017 est.)",33.6,32.8,34.4,-1.6000000000000014,"0-14 years: 26.63% (male 7,536/female 6,384)
+15-24 years: 15.59% (male 4,343/female 3,807)
+25-54 years: 39.96% (male 10,834/female 10,049)
+55-64 years: 12.37% (male 3,548/female 2,919)
+65 years and over: 5.44% (male 1,539/female 1,304) (2017 est.)",26.63,15.59,39.96,12.37,5.44,7536,6384,4343,3807,10834,10049,3548,2919,1539,1304,"-15.2 migrant(s)/1,000 population (2017 est.)",-15.2,15.0,4.8,10.2,Oceania,75.4,73.4,77.8
+Norway,"62 00 N, 10 00 E",62.0,10.0,"5,320,045 (July 2017 est.)",5320045,"total: 39.2 years
+male: 38.4 years
+female: 40 years (2017 est.)",39.2,38.4,40.0,-1.6000000000000014,"0-14 years: 18% (male 490,915/female 466,515)
+15-24 years: 12.58% (male 343,103/female 326,053)
+25-54 years: 41.01% (male 1,125,334/female 1,056,330)
+55-64 years: 11.71% (male 315,223/female 307,639)
+65 years and over: 16.71% (male 409,057/female 479,876) (2017 est.)",18.0,12.58,41.01,11.71,16.71,490915,466515,343103,326053,1125334,1056330,315223,307639,409057,479876,"5.9 migrant(s)/1,000 population (2017 est.)",5.9,12.2,8.1,4.1,Europe,81.9,79.8,84.0
+Oman,"21 00 N, 57 00 E",21.0,57.0,"4,613,241 (July 2017 est.)
+note: immigrants make up approximately 45% of the total population (2017)",4613241,"total: 25.6 years
+male: 26.6 years
+female: 24.2 years (2017 est.)",25.6,26.6,24.2,2.400000000000002,"0-14 years: 30.1% (male 528,554/female 502,272)
+15-24 years: 18.69% (male 335,764/female 304,207)
+25-54 years: 43.8% (male 864,858/female 635,006)
+55-64 years: 3.92% (male 71,477/female 62,793)
+65 years and over: 3.49% (male 58,561/female 60,894) (2017 est.)",30.1,18.69,43.8,3.92,3.49,528554,502272,335764,304207,864858,635006,71477,62793,58561,60894,"-0.4 migrant(s)/1,000 population (2017 est.)",-0.4,24.0,3.3,20.7,Middle East,75.7,73.7,77.7
+Pakistan,"30 00 N, 70 00 E",30.0,70.0,"204,924,861 (July 2017 est.)
+note: provisional results of Pakistan's 2017 national census estimate the country's total population to be 207,774,000",204924861,"total: 23.8 years
+male: 23.7 years
+female: 23.8 years (2017 est.)",23.8,23.7,23.8,-0.10000000000000142,"0-14 years: 31.36% (male 33,005,623/female 31,265,463)
+15-24 years: 21.14% (male 22,337,897/female 20,980,455)
+25-54 years: 37.45% (male 39,846,417/female 36,907,683)
+55-64 years: 5.57% (male 5,739,817/female 5,669,495)
+65 years and over: 4.48% (male 4,261,917/female 4,910,094) (2017 est.)",31.36,21.14,37.45,5.57,4.48,33005623,31265463,22337897,20980455,39846417,36907683,5739817,5669495,4261917,4910094,"-1.3 migrant(s)/1,000 population (2017 est.)",-1.3,21.9,6.3,15.599999999999998,Asia,68.1,66.1,70.1
+Palau,"7 30 N, 134 30 E",7.5,134.5,"21,431 (July 2017 est.)",21431,"total: 33.4 years
+male: 32.7 years
+female: 35 years (2017 est.)",33.4,32.7,35.0,-2.299999999999997,"0-14 years: 19.69% (male 2,177/female 2,043)
+15-24 years: 16.68% (male 1,788/female 1,787)
+25-54 years: 45.89% (male 6,005/female 3,830)
+55-64 years: 9.65% (male 731/female 1,338)
+65 years and over: 8.08% (male 446/female 1,286) (2017 est.)",19.69,16.68,45.89,9.65,8.08,2177,2043,1788,1787,6005,3830,731,1338,446,1286,"0.8 migrant(s)/1,000 population (2017 est.)",0.8,11.3,8.1,3.200000000000001,Oceania,73.4,70.2,76.8
+Panama,"9 00 N, 80 00 W",9.0,-80.0,"3,753,142 (July 2017 est.)",3753142,"total: 29.2 years
+male: 28.8 years
+female: 29.6 years (2017 est.)",29.2,28.8,29.6,-0.8000000000000007,"0-14 years: 26.4% (male 505,711/female 484,980)
+15-24 years: 16.99% (male 324,897/female 312,729)
+25-54 years: 40.35% (male 766,747/female 747,472)
+55-64 years: 7.91% (male 147,069/female 149,706)
+65 years and over: 8.36% (male 144,086/female 169,745) (2017 est.)",26.4,16.99,40.35,7.91,8.36,505711,484980,324897,312729,766747,747472,147069,149706,144086,169745,"-0.2 migrant(s)/1,000 population (2017 est.)",-0.2,17.9,4.9,12.999999999999998,Central America and the Caribbean,78.8,76.0,81.7
+Papua New Guinea,"6 00 S, 147 00 E",-6.0,147.0,"6,909,701 (July 2017 est.)",6909701,"total: 23.1 years
+male: 23.2 years
+female: 23.1 years (2017 est.)",23.1,23.2,23.1,0.09999999999999787,"0-14 years: 33.43% (male 1,175,934/female 1,133,882)
+15-24 years: 19.92% (male 697,463/female 678,680)
+25-54 years: 36.89% (male 1,309,843/female 1,238,972)
+55-64 years: 5.49% (male 193,273/female 185,931)
+65 years and over: 4.28% (male 148,802/female 146,921) (2017 est.)",33.43,19.92,36.89,5.49,4.28,1175934,1133882,697463,678680,1309843,1238972,193273,185931,148802,146921,"0 migrant(s)/1,000 population (2017 est.)",0.0,23.7,6.6,17.1,Oceania,67.3,65.1,69.7
+Paraguay,"23 00 S, 58 00 W",-23.0,-58.0,"6,943,739 (July 2017 est.)",6943739,"total: 28.2 years
+male: 28 years
+female: 28.5 years (2017 est.)",28.2,28.0,28.5,-0.5,"0-14 years: 24.56% (male 867,854/female 837,480)
+15-24 years: 19.29% (male 673,354/female 666,053)
+25-54 years: 41.08% (male 1,426,941/female 1,425,279)
+55-64 years: 7.95% (male 281,388/female 270,939)
+65 years and over: 7.12% (male 232,011/female 262,440) (2017 est.)",24.56,19.29,41.08,7.95,7.12,867854,837480,673354,666053,1426941,1425279,281388,270939,232011,262440,"-0.1 migrant(s)/1,000 population (2017 est.)",-0.1,16.6,4.8,11.8,South America,77.4,74.7,80.2
+Peru,"10 00 S, 76 00 W",-10.0,-76.0,"31,036,656 (July 2017 est.)",31036656,"total: 28 years
+male: 27.2 years
+female: 28.8 years (2017 est.)",28.0,27.2,28.8,-1.6000000000000014,"0-14 years: 26.31% (male 4,155,672/female 4,009,888)
+15-24 years: 18.31% (male 2,847,460/female 2,835,727)
+25-54 years: 40.19% (male 5,985,354/female 6,487,232)
+55-64 years: 7.78% (male 1,168,533/female 1,247,299)
+65 years and over: 7.41% (male 1,086,790/female 1,212,701) (2017 est.)",26.31,18.31,40.19,7.78,7.41,4155672,4009888,2847460,2835727,5985354,6487232,1168533,1247299,1086790,1212701,"-2.2 migrant(s)/1,000 population (2017 est.)",-2.2,17.8,6.1,11.7,South America,74.0,71.9,76.1
+Philippines,"13 00 N, 122 00 E",13.0,122.0,"104,256,076 (July 2017 est.)",104256076,"total: 23.5 years
+male: 23.1 years
+female: 24 years (2017 est.)",23.5,23.1,24.0,-0.8999999999999986,"0-14 years: 33.39% (male 17,764,826/female 17,050,168)
+15-24 years: 19.16% (male 10,199,389/female 9,780,025)
+25-54 years: 36.99% (male 19,597,675/female 18,964,900)
+55-64 years: 5.97% (male 2,844,739/female 3,375,139)
+65 years and over: 4.49% (male 1,930,273/female 2,748,942) (2017 est.)",33.39,19.16,36.99,5.97,4.49,17764826,17050168,10199389,9780025,19597675,18964900,2844739,3375139,1930273,2748942,"-2 migrant(s)/1,000 population (2017 est.)",-2.0,23.7,6.1,17.6,Southeast Asia,69.4,65.9,73.1
+Poland,"52 00 N, 20 00 E",52.0,20.0,"38,476,269 (July 2017 est.)",38476269,"total: 40.7 years
+male: 39 years
+female: 42.4 years (2017 est.)",40.7,39.0,42.4,-3.3999999999999986,"0-14 years: 14.76% (male 2,919,353/female 2,757,923)
+15-24 years: 10.7% (male 2,113,358/female 2,003,033)
+25-54 years: 43.48% (male 8,447,418/female 8,283,757)
+55-64 years: 14.21% (male 2,586,097/female 2,880,031)
+65 years and over: 16.86% (male 2,560,847/female 3,924,452) (2017 est.)",14.76,10.7,43.48,14.21,16.86,2919353,2757923,2113358,2003033,8447418,8283757,2586097,2880031,2560847,3924452,"-0.4 migrant(s)/1,000 population (2017 est.)",-0.4,9.5,10.4,-0.9000000000000004,Europe,77.8,73.9,81.8
+Portugal,"39 30 N, 8 00 W",39.5,-8.0,"10,839,514 (July 2017 est.)",10839514,"total: 42.2 years
+male: 40.2 years
+female: 44.4 years (2017 est.)",42.2,40.2,44.4,-4.199999999999996,"0-14 years: 15.34% (male 866,004/female 797,004)
+15-24 years: 11.36% (male 653,672/female 577,800)
+25-54 years: 41.72% (male 2,298,920/female 2,223,184)
+55-64 years: 12.18% (male 617,036/female 702,992)
+65 years and over: 19.4% (male 861,270/female 1,241,632) (2017 est.)",15.34,11.36,41.72,12.18,19.4,866004,797004,653672,577800,2298920,2223184,617036,702992,861270,1241632,"2.5 migrant(s)/1,000 population (2017 est.)",2.5,9.0,11.1,-2.1,Europe,79.4,76.2,82.9
+Puerto Rico,"18 15 N, 66 30 W",18.25,-66.5,"3,351,827 (July 2017 est.)",3351827,"total: 41.5 years
+male: 39.5 years
+female: 43.2 years (2017 est.)",41.5,39.5,43.2,-3.700000000000003,"0-14 years: 15.77% (male 270,656/female 258,073)
+15-24 years: 13.71% (male 233,667/female 225,812)
+25-54 years: 38.1% (male 607,954/female 669,149)
+55-64 years: 12.93% (male 198,720/female 234,713)
+65 years and over: 19.48% (male 281,413/female 371,670) (2017 est.)",15.77,13.71,38.1,12.93,19.48,270656,258073,233667,225812,607954,669149,198720,234713,281413,371670,"-16.9 migrant(s)/1,000 population (2017 est.)",-16.9,8.1,8.6,-0.5,Central America and the Caribbean,80.9,77.6,84.4
+Qatar,"25 30 N, 51 15 E",25.5,51.25,"2,314,307 (July 2017 est.)",2314307,"total: 33.2 years
+male: 34.3 years
+female: 28.1 years (2017 est.)",33.2,34.3,28.1,6.1999999999999975,"0-14 years: 12.63% (male 148,021/female 144,252)
+15-24 years: 12.35% (male 206,055/female 79,859)
+25-54 years: 70.59% (male 1,359,383/female 274,334)
+55-64 years: 3.42% (male 61,051/female 18,203)
+65 years and over: 1% (male 14,932/female 8,217) (2017 est.)",12.63,12.35,70.59,3.42,1.0,148021,144252,206055,79859,1359383,274334,61051,18203,14932,8217,"14.6 migrant(s)/1,000 population (2017 est.)",14.6,9.6,1.5,8.1,Middle East,78.9,76.8,81.0
+Romania,"46 00 N, 25 00 E",46.0,25.0,"21,529,967 (July 2017 est.)",21529967,"total: 41.1 years
+male: 39.7 years
+female: 42.6 years (2017 est.)",41.1,39.7,42.6,-2.8999999999999986,"0-14 years: 14.35% (male 1,586,976/female 1,502,864)
+15-24 years: 10.6% (male 1,170,679/female 1,110,727)
+25-54 years: 46.03% (male 5,016,529/female 4,893,792)
+55-64 years: 12.61% (male 1,271,281/female 1,443,414)
+65 years and over: 16.41% (male 1,428,599/female 2,105,106) (2017 est.)",14.35,10.6,46.03,12.61,16.41,1586976,1502864,1170679,1110727,5016529,4893792,1271281,1443414,1428599,2105106,"-0.2 migrant(s)/1,000 population (2017 est.)",-0.2,8.9,12.0,-3.1,Europe,75.4,71.9,79.0
+Russia,"60 00 N, 100 00 E",60.0,100.0,"142,257,519 (July 2017 est.)",142257519,"total: 39.6 years
+male: 36.6 years
+female: 42.5 years (2017 est.)",39.6,36.6,42.5,-5.899999999999999,"0-14 years: 17.12% (male 12,509,563/female 11,843,254)
+15-24 years: 9.46% (male 6,881,880/female 6,572,191)
+25-54 years: 44.71% (male 31,220,990/female 32,375,489)
+55-64 years: 14.44% (male 8,849,707/female 11,693,131)
+65 years and over: 14.28% (male 6,352,557/female 13,958,757) (2017 est.)",17.12,9.46,44.71,14.44,14.28,12509563,11843254,6881880,6572191,31220990,32375489,8849707,11693131,6352557,13958757,"1.7 migrant(s)/1,000 population (2017 est.)",1.7,11.0,13.5,-2.5,Asia,71.0,65.3,77.1
+Rwanda,"2 00 S, 30 00 E",-2.0,30.0,"11,901,484
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",11901484,"total: 19 years
+male: 18.3 years
+female: 19.8 years (2017 est.)",19.0,18.3,19.8,-1.5,"0-14 years: 41.38% (male 2,485,386/female 2,439,101)
+15-24 years: 19.34% (male 1,151,657/female 1,149,928)
+25-54 years: 32.77% (male 1,845,501/female 2,054,410)
+55-64 years: 4.09% (male 216,725/female 269,972)
+65 years and over: 2.43% (male 113,822/female 174,982) (2017 est.)",41.38,19.34,32.77,4.09,2.43,2485386,2439101,1151657,1149928,1845501,2054410,216725,269972,113822,174982,"0.2 migrant(s)/1,000 population (2017 est.)",0.2,30.7,6.4,24.3,Africa,64.3,62.3,66.3
+"Saint Helena, Ascension, and Tristan da Cunha","Saint Helena: 15 57 S, 5 42 W
+Ascension Island: 7 57 S, 14 22 W
+Tristan da Cunha island group: 37 15 S, 12 30 W",-15.95,-5.7,"7,828
+note: Saint Helena's statistical agency estimated the enumerated national population (including Ascension Island and Tristan da Cuhna) to be 5,901 in 2016, according to the 2016 census; only Saint Helena, Ascension, and Tristan da Cunha islands are inhabited, none of the other nearby islands/islets are (July 2017 est.)",7828,"total: 41.9 years
+male: 42 years
+female: 41.9 years (2017 est.)",41.9,42.0,41.9,0.10000000000000142,"0-14 years: 15.97% (male 637/female 613)
+15-24 years: 12.19% (male 486/female 468)
+25-54 years: 43.89% (male 1,701/female 1,735)
+55-64 years: 12.83% (male 517/female 487)
+65 years and over: 15.13% (male 604/female 580) (2017 est.)",15.97,12.19,43.89,12.83,15.13,637,613,486,468,1701,1735,517,487,604,580,"0 migrant(s)/1,000 population (2017 est.)",0.0,9.6,7.8,1.7999999999999998,Africa,79.6,76.7,82.7
+Saint Kitts and Nevis,"17 20 N, 62 45 W",17.333333333333332,-62.75,"52,715 (July 2017 est.)",52715,"total: 35 years
+male: 35.2 years
+female: 34.8 years (2017 est.)",35.0,35.2,34.8,0.4000000000000057,"0-14 years: 20.32% (male 5,378/female 5,332)
+15-24 years: 14.54% (male 3,689/female 3,978)
+25-54 years: 44.6% (male 12,070/female 11,441)
+55-64 years: 11.9% (male 3,130/female 3,142)
+65 years and over: 8.64% (male 2,107/female 2,448) (2017 est.)",20.32,14.54,44.6,11.9,8.64,5378,5332,3689,3978,12070,11441,3130,3142,2107,2448,"1.2 migrant(s)/1,000 population (2017 est.)",1.2,13.2,7.1,6.1,Central America and the Caribbean,75.9,73.5,78.4
+Saint Lucia,"13 53 N, 60 58 W",13.883333333333333,-60.96666666666667,"164,994 (July 2017 est.)",164994,"total: 34.8 years
+male: 33.7 years
+female: 36 years (2017 est.)",34.8,33.7,36.0,-2.299999999999997,"0-14 years: 20.02% (male 17,006/female 16,027)
+15-24 years: 15.37% (male 12,870/female 12,492)
+25-54 years: 42.97% (male 34,117/female 36,779)
+55-64 years: 9.99% (male 7,608/female 8,881)
+65 years and over: 11.65% (male 8,704/female 10,510) (2017 est.)",20.02,15.37,42.97,9.99,11.65,17006,16027,12870,12492,34117,36779,7608,8881,8704,10510,"-2.5 migrant(s)/1,000 population (2017 est.)",-2.5,13.3,7.7,5.6000000000000005,Central America and the Caribbean,77.9,75.2,80.8
+Saint Pierre and Miquelon,"46 50 N, 56 20 W",46.83333333333334,-56.33333333333334,"5,533 (July 2017 est.)",5533,"total: 46.5 years
+male: 46 years
+female: 47 years (2017 est.)",46.5,46.0,47.0,-1.0,"0-14 years: 15.29% (male 437/female 409)
+15-24 years: 9.05% (male 258/female 243)
+25-54 years: 41.79% (male 1,137/female 1,175)
+55-64 years: 13.54% (male 388/female 361)
+65 years and over: 20.33% (male 477/female 648) (2017 est.)",15.29,9.05,41.79,13.54,20.33,437,409,258,243,1137,1175,388,361,477,648,"-8 migrant(s)/1,000 population (2017 est.)",-8.0,7.1,9.9,-2.8000000000000007,North America,80.6,78.3,83.1
+Saint Vincent and the Grenadines,"13 15 N, 61 12 W",13.25,-61.2,"102,089 (July 2017 est.)",102089,"total: 33.6 years
+male: 33.8 years
+female: 33.4 years (2017 est.)",33.6,33.8,33.4,0.3999999999999986,"0-14 years: 21.3% (male 10,970/female 10,779)
+15-24 years: 15.97% (male 8,226/female 8,080)
+25-54 years: 42.66% (male 22,608/female 20,939)
+55-64 years: 10.64% (male 5,595/female 5,272)
+65 years and over: 9.42% (male 4,515/female 5,105) (2017 est.)",21.3,15.97,42.66,10.64,9.42,10970,10779,8226,8080,22608,20939,5595,5272,4515,5105,"-8.4 migrant(s)/1,000 population (2017 est.)",-8.4,13.2,7.3,5.9,Central America and the Caribbean,75.5,73.5,77.6
+Samoa,"13 35 S, 172 20 W",-13.583333333333336,-172.33333333333337,"200,108 (July 2017 est.)",200108,"total: 24.4 years
+male: 24.1 years
+female: 24.6 years (2017 est.)",24.4,24.1,24.6,-0.5,"0-14 years: 31.35% (male 32,372/female 30,359)
+15-24 years: 19.82% (male 20,358/female 19,306)
+25-54 years: 36.33% (male 37,423/female 35,273)
+55-64 years: 6.78% (male 6,912/female 6,663)
+65 years and over: 5.72% (male 4,976/female 6,466) (2017 est.)",31.35,19.82,36.33,6.78,5.72,32372,30359,20358,19306,37423,35273,6912,6663,4976,6466,"-9.1 migrant(s)/1,000 population (2017 est.)",-9.1,20.4,5.3,15.099999999999998,Oceania,74.0,71.1,77.0
+San Marino,"43 46 N, 12 25 E",43.76666666666666,12.416666666666664,"33,537 (July 2017 est.)",33537,"total: 44.4 years
+male: 43.3 years
+female: 45.4 years (2017 est.)",44.4,43.3,45.4,-2.1000000000000014,"0-14 years: 15.22% (male 2,709/female 2,396)
+15-24 years: 11.52% (male 2,003/female 1,861)
+25-54 years: 40.78% (male 6,435/female 7,240)
+55-64 years: 12.92% (male 2,142/female 2,191)
+65 years and over: 19.56% (male 2,945/female 3,615) (2017 est.)",15.22,11.52,40.78,12.92,19.56,2709,2396,2003,1861,6435,7240,2142,2191,2945,3615,"7.5 migrant(s)/1,000 population (2017 est.)",7.5,8.6,8.7,-0.09999999999999963,Europe,83.3,80.8,86.1
+Sao Tome and Principe,"1 00 N, 7 00 E",1.0,7.0,"201,025 (July 2017 est.)",201025,"total: 18.4 years
+male: 18 years
+female: 18.8 years (2017 est.)",18.4,18.0,18.8,-0.8000000000000007,"0-14 years: 41.85% (male 42,781/female 41,354)
+15-24 years: 20.68% (male 21,070/female 20,507)
+25-54 years: 30.82% (male 30,454/female 31,509)
+55-64 years: 3.81% (male 3,515/female 4,140)
+65 years and over: 2.83% (male 2,523/female 3,172) (2017 est.)",41.85,20.68,30.82,3.81,2.83,42781,41354,21070,20507,30454,31509,3515,4140,2523,3172,"-8.3 migrant(s)/1,000 population (2017 est.)",-8.3,32.4,6.8,25.6,Africa,65.3,63.9,66.7
+Saudi Arabia,"25 00 N, 45 00 E",25.0,45.0,"28,571,770 (July 2017 est.)
+note: immigrants make up 37% of the total population, according to UN data (2017)",28571770,"total: 27.5 years
+male: 28.2 years
+female: 26.7 years (2017 est.)",27.5,28.2,26.7,1.5,"0-14 years: 26.1% (male 3,825,242/female 3,631,967)
+15-24 years: 18.57% (male 2,842,818/female 2,462,061)
+25-54 years: 46.86% (male 7,559,248/female 5,829,656)
+55-64 years: 5.03% (male 783,673/female 653,404)
+65 years and over: 3.44% (male 498,830/female 484,871) (2017 est.)",26.1,18.57,46.86,5.03,3.44,3825242,3631967,2842818,2462061,7559248,5829656,783673,653404,498830,484871,"-0.5 migrant(s)/1,000 population (2017 est.)",-0.5,18.3,3.4,14.9,Middle East,75.5,73.4,77.7
+Senegal,"14 00 N, 14 00 W",14.0,-14.0,"14,668,522 (July 2017 est.)",14668522,"total: 18.8 years
+male: 18 years
+female: 19.7 years (2017 est.)",18.8,18.0,19.7,-1.6999999999999993,"0-14 years: 41.51% (male 3,060,118/female 3,028,975)
+15-24 years: 20.33% (male 1,486,393/female 1,496,393)
+25-54 years: 31.19% (male 2,102,757/female 2,472,683)
+55-64 years: 3.98% (male 251,673/female 332,113)
+65 years and over: 2.98% (male 194,491/female 242,926) (2017 est.)",41.51,20.33,31.19,3.98,2.98,3060118,3028975,1486393,1496393,2102757,2472683,251673,332113,194491,242926,"-1.5 migrant(s)/1,000 population (2017 est.)",-1.5,33.4,8.1,25.3,Africa,62.1,60.0,64.3
+Serbia,"44 00 N, 21 00 E",44.0,21.0,"7,111,024
+note: does not include the population of Kosovo (July 2017 est.)",7111024,"total: 42.6 years
+male: 40.9 years
+female: 44.3 years (2017 est.)",42.6,40.9,44.3,-3.3999999999999986,"0-14 years: 14.5% (male 531,524/female 499,715)
+15-24 years: 11.26% (male 413,046/female 387,697)
+25-54 years: 41.32% (male 1,483,392/female 1,454,931)
+55-64 years: 14.49% (male 496,944/female 533,329)
+65 years and over: 18.43% (male 541,569/female 768,877) (2017 est.)",14.5,11.26,41.32,14.49,18.43,531524,499715,413046,387697,1483392,1454931,496944,533329,541569,768877,"0 migrant(s)/1,000 population (2017 est.)",0.0,9.0,13.6,-4.6,Europe,75.7,72.8,78.8
+Seychelles,"4 35 S, 55 40 E",-4.583333333333333,55.66666666666666,"93,920 (July 2017 est.)",93920,"total: 35.4 years
+male: 34.9 years
+female: 36 years (2017 est.)",35.4,34.9,36.0,-1.1000000000000014,"0-14 years: 19.88% (male 9,578/female 9,089)
+15-24 years: 13.24% (male 6,536/female 5,898)
+25-54 years: 49.36% (male 24,585/female 21,775)
+55-64 years: 9.88% (male 4,758/female 4,522)
+65 years and over: 7.64% (male 2,868/female 4,311) (2017 est.)",19.88,13.24,49.36,9.88,7.64,9578,9089,6536,5898,24585,21775,4758,4522,2868,4311,"1 migrant(s)/1,000 population (2017 est.)",1.0,13.7,7.0,6.6999999999999975,Africa,74.9,70.4,79.6
+Sierra Leone,"8 30 N, 11 30 W",8.5,-11.5,"6,163,195 (July 2017 est.)",6163195,"total: 19 years
+male: 18.4 years
+female: 19.6 years (2017 est.)",19.0,18.4,19.6,-1.2000000000000028,"0-14 years: 41.82% (male 1,286,681/female 1,290,924)
+15-24 years: 18.56% (male 556,478/female 587,454)
+25-54 years: 32.16% (male 949,264/female 1,032,783)
+55-64 years: 3.7% (male 106,706/female 121,111)
+65 years and over: 3.76% (male 96,285/female 135,509) (2017 est.)",41.82,18.56,32.16,3.7,3.76,1286681,1290924,556478,587454,949264,1032783,106706,121111,96285,135509,"-2.1 migrant(s)/1,000 population (2017 est.)",-2.1,36.3,10.4,25.9,Africa,58.6,56.0,61.3
+Singapore,"1 22 N, 103 48 E",1.3666666666666667,103.8,"5,888,926 (July 2017 est.)",5888926,"total: 34.6 years
+male: 34.5 years
+female: 34.7 years (2017 est.)",34.6,34.5,34.7,-0.20000000000000284,"0-14 years: 12.82% (male 386,139/female 368,874)
+15-24 years: 16.56% (male 479,683/female 495,649)
+25-54 years: 50.53% (male 1,448,463/female 1,527,038)
+55-64 years: 10.46% (male 308,477/female 307,557)
+65 years and over: 9.63% (male 258,597/female 308,449) (2017 est.)",12.82,16.56,50.53,10.46,9.63,386139,368874,479683,495649,1448463,1527038,308477,307557,258597,308449,"13.1 migrant(s)/1,000 population (2017 est.)",13.1,8.6,3.5,5.1,Southeast Asia,85.2,82.6,88.1
+Sint Maarten,"18 4 N, 63 4 W",18.066666666666666,-63.06666666666667,"42,083 (July 2017 est.)",42083,"total: 41 years
+male: 39.9 years
+female: 42 years (2017 est.)",41.0,39.9,42.0,-2.1000000000000014,"0-14 years: 18.43% (male 4,045/female 3,709)
+15-24 years: 14.59% (male 3,066/female 3,073)
+25-54 years: 41.99% (male 8,624/female 9,048)
+55-64 years: 15.92% (male 3,204/female 3,495)
+65 years and over: 9.07% (male 1,837/female 1,982) (2017 est.)",18.43,14.59,41.99,15.92,9.07,4045,3709,3066,3073,8624,9048,3204,3495,1837,1982,"6.3 migrant(s)/1,000 population (2017 est.)",6.3,13.1,5.2,7.899999999999999,Central America and the Caribbean,78.3,76.0,80.8
+Slovakia,"48 40 N, 19 30 E",48.66666666666666,19.5,"5,445,829 (July 2017 est.)",5445829,"total: 40.5 years
+male: 38.8 years
+female: 42.3 years (2017 est.)",40.5,38.8,42.3,-3.5,"0-14 years: 15.17% (male 424,039/female 402,284)
+15-24 years: 10.87% (male 305,058/female 286,902)
+25-54 years: 45.1% (male 1,240,943/female 1,215,260)
+55-64 years: 13.42% (male 347,221/female 383,852)
+65 years and over: 15.43% (male 325,738/female 514,532) (2017 est.)",15.17,10.87,45.1,13.42,15.43,424039,402284,305058,286902,1240943,1215260,347221,383852,325738,514532,"0.1 migrant(s)/1,000 population (2017 est.)",0.1,9.7,9.9,-0.20000000000000107,Europe,77.3,73.7,81.1
+Slovenia,"46 07 N, 14 49 E",46.11666666666667,14.816666666666665,"1,972,126 (July 2017 est.)",1972126,"total: 44.5 years
+male: 42.8 years
+female: 46.2 years (2017 est.)",44.5,42.8,46.2,-3.4000000000000057,"0-14 years: 13.32% (male 135,371/female 127,246)
+15-24 years: 9.45% (male 95,546/female 90,744)
+25-54 years: 42.9% (male 427,723/female 418,349)
+55-64 years: 14.83% (male 143,642/female 148,821)
+65 years and over: 19.51% (male 157,794/female 226,890) (2017 est.)",13.32,9.45,42.9,14.83,19.51,135371,127246,95546,90744,427723,418349,143642,148821,157794,226890,"0.4 migrant(s)/1,000 population (2017 est.)",0.4,8.2,11.6,-3.4000000000000004,Europe,78.3,74.8,82.2
+Solomon Islands,"8 00 S, 159 00 E",-8.0,159.0,"647,581 (July 2017 est.)",647581,"total: 22.5 years
+male: 22.3 years
+female: 22.8 years (2017 est.)",22.5,22.3,22.8,-0.5,"0-14 years: 34.59% (male 115,329/female 108,645)
+15-24 years: 19.99% (male 66,608/female 62,843)
+25-54 years: 36.5% (male 120,339/female 116,048)
+55-64 years: 4.65% (male 15,316/female 14,828)
+65 years and over: 4.27% (male 13,096/female 14,529) (2017 est.)",34.59,19.99,36.5,4.65,4.27,115329,108645,66608,62843,120339,116048,15316,14828,13096,14529,"-1.7 migrant(s)/1,000 population (2017 est.)",-1.7,24.9,3.8,21.1,Oceania,75.6,72.9,78.3
+Somalia,"10 00 N, 49 00 E",10.0,49.0,"11,031,386
+note: this estimate was derived from an official census taken in 1975 by the Somali Government; population counting in Somalia is complicated by the large number of nomads and by refugee movements in response to famine and clan warfare (July 2017 est.)",11031386,"total: 18.1 years
+male: 18.3 years
+female: 17.9 years (2017 est.)",18.1,18.3,17.9,0.4000000000000021,"0-14 years: 43.15% (male 2,376,526/female 2,383,060)
+15-24 years: 19.04% (male 1,059,608/female 1,040,343)
+25-54 years: 31.43% (male 1,795,355/female 1,671,421)
+55-64 years: 4.2% (male 230,027/female 233,257)
+65 years and over: 2.19% (male 93,736/female 148,053) (2017 est.)",43.15,19.04,31.43,4.2,2.19,2376526,2383060,1059608,1040343,1795355,1671421,230027,233257,93736,148053,"-6.5 migrant(s)/1,000 population (2017 est.)",-6.5,39.6,13.1,26.5,Africa,52.8,50.7,54.9
+South Africa,"29 00 S, 24 00 E",-29.0,24.0,"54,841,552
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",54841552,"total: 27.1 years
+male: 26.9 years
+female: 27.3 years (2017 est.)",27.1,26.9,27.3,-0.4000000000000021,"0-14 years: 28.27% (male 7,768,960/female 7,733,706)
+15-24 years: 17.61% (male 4,776,096/female 4,881,962)
+25-54 years: 41.78% (male 11,589,099/female 11,323,869)
+55-64 years: 6.66% (male 1,694,904/female 1,955,391)
+65 years and over: 5.68% (male 1,309,597/female 1,807,968) (2017 est.)",28.27,17.61,41.78,6.66,5.68,7768960,7733706,4776096,4881962,11589099,11323869,1694904,1955391,1309597,1807968,"-0.9 migrant(s)/1,000 population (2017 est.)",-0.9,20.2,9.4,10.8,Africa,63.8,62.4,65.3
+Spain,"40 00 N, 4 00 W",40.0,-4.0,"48,958,159 (July 2017 est.)",48958159,"total: 42.7 years
+male: 41.5 years
+female: 43.9 years (2017 est.)",42.7,41.5,43.9,-2.3999999999999986,"0-14 years: 15.38% (male 3,872,763/female 3,656,549)
+15-24 years: 9.58% (male 2,424,352/female 2,267,429)
+25-54 years: 44.91% (male 11,214,102/female 10,775,039)
+55-64 years: 12.14% (male 2,899,088/female 3,044,111)
+65 years and over: 17.98% (male 3,763,989/female 5,040,737) (2017 est.)",15.38,9.58,44.91,12.14,17.98,3872763,3656549,2424352,2267429,11214102,10775039,2899088,3044111,3763989,5040737,"7.8 migrant(s)/1,000 population (2017 est.)",7.8,9.2,9.1,0.09999999999999963,Europe,81.8,78.8,84.9
+Sri Lanka,"7 00 N, 81 00 E",7.0,81.0,"22,409,381 (July 2017 est.)",22409381,"total: 32.8 years
+male: 31.5 years
+female: 34 years (2017 est.)",32.8,31.5,34.0,-2.5,"0-14 years: 24.06% (male 2,750,004/female 2,642,606)
+15-24 years: 14.63% (male 1,666,859/female 1,611,379)
+25-54 years: 41.58% (male 4,571,200/female 4,747,119)
+55-64 years: 10.06% (male 1,043,199/female 1,210,930)
+65 years and over: 9.67% (male 917,014/female 1,249,071) (2017 est.)",24.06,14.63,41.58,10.06,9.67,2750004,2642606,1666859,1611379,4571200,4747119,1043199,1210930,917014,1249071,"-1.3 migrant(s)/1,000 population (2017 est.)",-1.3,15.2,6.2,9.0,Asia,76.9,73.5,80.6
+Sudan,"15 00 N, 30 00 E",15.0,30.0,"37,345,935 (July 2017 est.)",37345935,"total: 19.9 years
+male: 19.7 years
+female: 20.1 years (2017 est.)",19.9,19.7,20.1,-0.4000000000000021,"0-14 years: 38.68% (male 7,335,613/female 7,111,552)
+15-24 years: 21.04% (male 4,033,787/female 3,823,098)
+25-54 years: 32.77% (male 5,943,906/female 6,293,921)
+55-64 years: 4.24% (male 824,577/female 760,014)
+65 years and over: 3.27% (male 655,795/female 563,672) (2017 est.)",38.68,21.04,32.77,4.24,3.27,7335613,7111552,4033787,3823098,5943906,6293921,824577,760014,655795,563672,"-4.1 migrant(s)/1,000 population (2017 est.)",-4.1,27.9,7.3,20.6,Africa,64.4,62.3,66.7
+Suriname,"4 00 N, 56 00 W",4.0,-56.0,"591,919 (July 2017 est.)",591919,"total: 29.8 years
+male: 29.4 years
+female: 30.2 years (2017 est.)",29.8,29.4,30.2,-0.8000000000000007,"0-14 years: 24.62% (male 74,247/female 71,456)
+15-24 years: 17.44% (male 52,599/female 50,618)
+25-54 years: 44.4% (male 133,835/female 128,980)
+55-64 years: 7.54% (male 21,940/female 22,697)
+65 years and over: 6.01% (male 15,394/female 20,153) (2017 est.)",24.62,17.44,44.4,7.54,6.01,74247,71456,52599,50618,133835,128980,21940,22697,15394,20153,"0.6 migrant(s)/1,000 population (2017 est.)",0.6,15.8,6.1,9.7,South America,72.5,70.1,75.1
+Swaziland,"26 30 S, 31 30 E",-26.5,31.5,"1,467,152
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",1467152,"total: 21.7 years
+male: 21.5 years
+female: 21.9 years (2017 est.)",21.7,21.5,21.9,-0.3999999999999986,"0-14 years: 35.01% (male 259,646/female 253,976)
+15-24 years: 22.12% (male 164,117/female 160,478)
+25-54 years: 34.6% (male 264,262/female 243,362)
+55-64 years: 4.3% (male 25,319/female 37,763)
+65 years and over: 3.97% (male 22,113/female 36,116) (2017 est.)",35.01,22.12,34.6,4.3,3.97,259646,253976,164117,160478,264262,243362,25319,37763,22113,36116,"0 migrant(s)/1,000 population (2017 est.)",0.0,24.0,13.2,10.8,Africa,52.1,52.7,51.5
+Sweden,"62 00 N, 15 00 E",62.0,15.0,"9,960,487 (July 2017 est.)",9960487,"total: 41.2 years
+male: 40.2 years
+female: 42.2 years (2017 est.)",41.2,40.2,42.2,-2.0,"0-14 years: 17.43% (male 892,462/female 843,375)
+15-24 years: 11.31% (male 581,025/female 545,971)
+25-54 years: 39.42% (male 1,993,590/female 1,933,080)
+55-64 years: 11.58% (male 578,942/female 574,479)
+65 years and over: 20.26% (male 931,593/female 1,085,970) (2017 est.)",17.43,11.31,39.42,11.58,20.26,892462,843375,581025,545971,1993590,1933080,578942,574479,931593,1085970,"5.3 migrant(s)/1,000 population (2017 est.)",5.3,12.1,9.4,2.7,Europe,82.1,80.2,84.2
+Switzerland,"47 00 N, 8 00 E",47.0,8.0,"8,236,303 (July 2017 est.)",8236303,"total: 42.4 years
+male: 41.4 years
+female: 43.4 years (2017 est.)",42.4,41.4,43.4,-2.0,"0-14 years: 15.16% (male 642,814/female 605,689)
+15-24 years: 10.88% (male 458,044/female 438,373)
+25-54 years: 43.21% (male 1,784,051/female 1,774,494)
+55-64 years: 12.6% (male 519,709/female 518,421)
+65 years and over: 18.15% (male 658,673/female 836,035) (2017 est.)",15.16,10.88,43.21,12.6,18.15,642814,605689,458044,438373,1784051,1774494,519709,518421,658673,836035,"4.7 migrant(s)/1,000 population (2017 est.)",4.7,10.5,8.3,2.2,Europe,82.6,80.3,85.1
+Syria,"35 00 N, 38 00 E",35.0,38.0,"18,028,549 (July 2017 est.)
+note: approximately 20,500 Israeli settlers live in the Golan Heights (2014)",18028549,"total: 24.3 years
+male: 23.9 years
+female: 24.8 years (2017 est.)",24.3,23.9,24.8,-0.9000000000000021,"0-14 years: 31.62% (male 2,923,814/female 2,777,073)
+15-24 years: 19.54% (male 1,790,360/female 1,732,694)
+25-54 years: 39.22% (male 3,522,653/female 3,547,540)
+55-64 years: 5.41% (male 482,576/female 493,085)
+65 years and over: 4.21% (male 342,407/female 416,347) (2017 est.)",31.62,19.54,39.22,5.41,4.21,2923814,2777073,1790360,1732694,3522653,3547540,482576,493085,342407,416347,,,21.2,4.0,17.2,Middle East,75.1,72.7,77.6
+Taiwan,"23 30 N, 121 00 E",23.5,121.0,"23,508,428 (July 2017 est.)",23508428,"total: 40.7 years
+male: 40 years
+female: 41.5 years (2017 est.)",40.7,40.0,41.5,-1.5,"0-14 years: 12.88% (male 1,559,074/female 1,468,319)
+15-24 years: 12.88% (male 1,551,228/female 1,476,660)
+25-54 years: 46.41% (male 5,445,338/female 5,463,804)
+55-64 years: 14.12% (male 1,622,111/female 1,696,564)
+65 years and over: 13.72% (male 1,475,534/female 1,749,796) (2017 est.)",12.88,12.88,46.41,14.12,13.72,1559074,1468319,1551228,1476660,5445338,5463804,1622111,1696564,1475534,1749796,"0.9 migrant(s)/1,000 population (2017 est.)",0.9,8.3,7.4,0.9000000000000004,Southeast Asia,80.2,77.1,83.6
+Tajikistan,"39 00 N, 71 00 E",39.0,71.0,"8,468,555 (July 2017 est.)",8468555,"total: 24.5 years
+male: 23.9 years
+female: 25.1 years (2017 est.)",24.5,23.9,25.1,-1.2000000000000028,"0-14 years: 32.33% (male 1,393,804/female 1,343,825)
+15-24 years: 18.61% (male 799,736/female 776,417)
+25-54 years: 40.12% (male 1,683,228/female 1,714,507)
+55-64 years: 5.62% (male 219,043/female 257,066)
+65 years and over: 3.32% (male 116,511/female 164,418) (2017 est.)",32.33,18.61,40.12,5.62,3.32,1393804,1343825,799736,776417,1683228,1714507,219043,257066,116511,164418,"-1.1 migrant(s)/1,000 population (2017 est.)",-1.1,23.3,6.0,17.3,Asia,68.1,64.9,71.4
+Tanzania,"6 00 S, 35 00 E",-6.0,35.0,"53,950,935
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",53950935,"total: 17.7 years
+male: 17.5 years
+female: 18 years (2017 est.)",17.7,17.5,18.0,-0.5,"0-14 years: 43.74% (male 11,921,393/female 11,678,536)
+15-24 years: 19.86% (male 5,361,747/female 5,351,794)
+25-54 years: 29.88% (male 8,098,183/female 8,020,289)
+55-64 years: 3.51% (male 836,313/female 1,055,347)
+65 years and over: 3.02% (male 687,118/female 940,215) (2017 est.)",43.74,19.86,29.88,3.51,3.02,11921393,11678536,5361747,5351794,8098183,8020289,836313,1055347,687118,940215,"-0.5 migrant(s)/1,000 population (2017 est.)",-0.5,35.6,7.6,28.0,Africa,62.6,61.2,64.1
+Thailand,"15 00 N, 100 00 E",15.0,100.0,"68,414,135
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",68414135,"total: 37.7 years
+male: 36.6 years
+female: 38.7 years (2017 est.)",37.7,36.6,38.7,-2.1000000000000014,"0-14 years: 16.93% (male 5,933,269/female 5,649,864)
+15-24 years: 14.17% (male 4,943,583/female 4,752,038)
+25-54 years: 46.32% (male 15,677,322/female 16,009,399)
+55-64 years: 12% (male 3,851,575/female 4,358,837)
+65 years and over: 10.58% (male 3,165,799/female 4,072,449) (2017 est.)",16.93,14.17,46.32,12.0,10.58,5933269,5649864,4943583,4752038,15677322,16009399,3851575,4358837,3165799,4072449,"0 migrant(s)/1,000 population (2017 est.)",0.0,11.0,8.0,3.0,Southeast Asia,74.9,71.7,78.3
+Timor-Leste,"8 50 S, 125 55 E",-8.833333333333334,125.91666666666669,"1,291,358 (July 2017 est.)",1291358,"total: 18.9 years
+male: 18.3 years
+female: 19.6 years (2017 est.)",18.9,18.3,19.6,-1.3000000000000007,"0-14 years: 40.91% (male 271,623/female 256,733)
+15-24 years: 20.32% (male 133,254/female 129,166)
+25-54 years: 29.95% (male 185,911/female 200,903)
+55-64 years: 4.94% (male 32,168/female 31,680)
+65 years and over: 3.87% (male 23,924/female 25,996) (2017 est.)",40.91,20.32,29.95,4.94,3.87,271623,256733,133254,129166,185911,200903,32168,31680,23924,25996,"-3.9 migrant(s)/1,000 population (2017 est.)",-3.9,33.4,5.9,27.5,Southeast Asia,68.4,66.8,70.1
+Togo,"8 00 N, 1 10 E",8.0,1.1666666666666667,"7,965,055
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",7965055,"total: 19.8 years
+male: 19.5 years
+female: 20.1 years (2017 est.)",19.8,19.5,20.1,-0.6000000000000014,"0-14 years: 40.29% (male 1,610,020/female 1,599,105)
+15-24 years: 19.2% (male 763,507/female 765,884)
+25-54 years: 32.79% (male 1,297,489/female 1,314,130)
+55-64 years: 4.31% (male 161,809/female 181,180)
+65 years and over: 3.41% (male 117,409/female 154,522) (2017 est.)",40.29,19.2,32.79,4.31,3.41,1610020,1599105,763507,765884,1297489,1314130,161809,181180,117409,154522,"0 migrant(s)/1,000 population (2017 est.)",0.0,33.3,6.9,26.4,Africa,65.4,62.8,68.1
+Tonga,"20 00 S, 175 00 W",-20.0,-175.0,"106,479 (July 2017 est.)",106479,"total: 23 years
+male: 22.5 years
+female: 23.4 years (2017 est.)",23.0,22.5,23.4,-0.8999999999999986,"0-14 years: 33.87% (male 18,323/female 17,741)
+15-24 years: 19.65% (male 10,715/female 10,209)
+25-54 years: 34.3% (male 18,243/female 18,278)
+55-64 years: 5.76% (male 3,048/female 3,083)
+65 years and over: 6.42% (male 3,090/female 3,749) (2017 est.)",33.87,19.65,34.3,5.76,6.42,18323,17741,10715,10209,18243,18278,3048,3083,3090,3749,"-17.8 migrant(s)/1,000 population (2017 est.)",-17.8,22.2,4.9,17.299999999999994,Oceania,76.4,74.9,78.1
+Trinidad and Tobago,"11 00 N, 61 00 W",11.0,-61.0,"1,218,208 (July 2017 est.)",1218208,"total: 36 years
+male: 35.6 years
+female: 36.6 years (2017 est.)",36.0,35.6,36.6,-1.0,"0-14 years: 19.29% (male 119,651/female 115,348)
+15-24 years: 11.88% (male 75,402/female 69,333)
+25-54 years: 45.56% (male 289,244/female 265,808)
+55-64 years: 12.61% (male 76,601/female 77,056)
+65 years and over: 10.65% (male 56,550/female 73,215) (2017 est.)",19.29,11.88,45.56,12.61,10.65,119651,115348,75402,69333,289244,265808,76601,77056,56550,73215,"-5.9 migrant(s)/1,000 population (2017 est.)",-5.9,12.7,8.8,3.899999999999999,Central America and the Caribbean,73.1,70.2,76.2
+Tunisia,"34 00 N, 9 00 E",34.0,9.0,"11,403,800 (July 2017 est.)",11403800,"total: 31.6 years
+male: 31 years
+female: 32.2 years (2017 est.)",31.6,31.0,32.2,-1.2000000000000028,"0-14 years: 25.15% (male 1,482,303/female 1,385,407)
+15-24 years: 13.99% (male 805,376/female 790,119)
+25-54 years: 43.38% (male 2,410,724/female 2,536,015)
+55-64 years: 9.54% (male 543,865/female 543,642)
+65 years and over: 7.95% (male 429,681/female 476,668) (2017 est.)",25.15,13.99,43.38,9.54,7.95,1482303,1385407,805376,790119,2410724,2536015,543865,543642,429681,476668,"-1.7 migrant(s)/1,000 population (2017 est.)",-1.7,18.2,6.3,11.9,Africa,75.7,74.1,77.4
+Turkey,"39 00 N, 35 00 E",39.0,35.0,"80,845,215 (July 2017 est.)",80845215,"total: 30.9 years
+male: 30.5 years
+female: 31.4 years (2017 est.)",30.9,30.5,31.4,-0.8999999999999986,"0-14 years: 24.68% (male 10,209,284/female 9,745,057)
+15-24 years: 15.99% (male 6,601,471/female 6,324,277)
+25-54 years: 43.21% (male 17,691,703/female 17,243,428)
+55-64 years: 8.58% (male 3,448,232/female 3,492,199)
+65 years and over: 7.53% (male 2,712,323/female 3,377,241) (2017 est.)",24.68,15.99,43.21,8.58,7.53,10209284,9745057,6601471,6324277,17691703,17243428,3448232,3492199,2712323,3377241,"-4.5 migrant(s)/1,000 population (2017 est.)",-4.5,15.7,6.0,9.7,Middle East,75.0,72.7,77.5
+Turkmenistan,"40 00 N, 60 00 E",40.0,60.0,"5,351,277 (July 2017 est.)",5351277,"total: 27.9 years
+male: 27.5 years
+female: 28.4 years (2017 est.)",27.9,27.5,28.4,-0.8999999999999986,"0-14 years: 25.79% (male 699,612/female 680,583)
+15-24 years: 18.39% (male 495,025/female 488,930)
+25-54 years: 43.18% (male 1,147,044/female 1,163,762)
+55-64 years: 7.9% (male 199,363/female 223,443)
+65 years and over: 4.74% (male 110,505/female 143,010) (2017 est.)",25.79,18.39,43.18,7.9,4.74,699612,680583,495025,488930,1147044,1163762,199363,223443,110505,143010,"-1.8 migrant(s)/1,000 population (2017 est.)",-1.8,19.1,6.1,13.000000000000002,Asia,70.4,67.4,73.6
+Turks and Caicos Islands,"21 45 N, 71 35 W",21.75,-71.58333333333333,"52,570 (July 2017 est.)",52570,"total: 33.3 years
+male: 33.6 years
+female: 33 years (2017 est.)",33.3,33.6,33.0,0.6000000000000014,"0-14 years: 21.74% (male 5,826/female 5,604)
+15-24 years: 13.99% (male 3,641/female 3,711)
+25-54 years: 53.17% (male 14,097/female 13,855)
+55-64 years: 6.54% (male 1,839/female 1,597)
+65 years and over: 4.57% (male 1,096/female 1,304) (2017 est.)",21.74,13.99,53.17,6.54,4.57,5826,5604,3641,3711,14097,13855,1839,1597,1096,1304,"9.5 migrant(s)/1,000 population (2017 est.)",9.5,15.3,3.2,12.1,Central America and the Caribbean,80.0,77.2,82.9
+Tuvalu,"8 00 S, 178 00 E",-8.0,178.0,"11,052 (July 2017 est.)",11052,"total: 25.7 years
+male: 24.7 years
+female: 26.9 years (2017 est.)",25.7,24.7,26.9,-2.2,"0-14 years: 29.29% (male 1,659/female 1,578)
+15-24 years: 19.26% (male 1,106/female 1,023)
+25-54 years: 36.66% (male 2,036/female 2,016)
+55-64 years: 8.77% (male 396/female 573)
+65 years and over: 6.02% (male 263/female 402) (2017 est.)",29.29,19.26,36.66,8.77,6.02,1659,1578,1106,1023,2036,2016,396,573,263,402,"-6.7 migrant(s)/1,000 population (2017 est.)",-6.7,23.7,8.5,15.2,Oceania,66.9,64.7,69.2
+Uganda,"1 00 N, 32 00 E",1.0,32.0,"39,570,125
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",39570125,"total: 15.8 years
+male: 15.7 years
+female: 15.9 years (2017 est.)",15.8,15.7,15.9,-0.20000000000000107,"0-14 years: 48.05% (male 9,486,324/female 9,526,713)
+15-24 years: 21.1% (male 4,130,357/female 4,217,681)
+25-54 years: 26.3% (male 5,208,817/female 5,199,556)
+55-64 years: 2.57% (male 491,397/female 525,064)
+65 years and over: 1.98% (male 343,805/female 440,411) (2017 est.)",48.05,21.1,26.3,2.57,1.98,9486324,9526713,4130357,4217681,5208817,5199556,491397,525064,343805,440411,"-0.7 migrant(s)/1,000 population (2017 est.)",-0.7,42.9,10.2,32.7,Africa,55.9,54.4,57.3
+Ukraine,"49 00 N, 32 00 E",49.0,32.0,"44,033,874 (July 2017 est.)",44033874,"total: 40.6 years
+male: 37.4 years
+female: 43.7 years (2017 est.)",40.6,37.4,43.7,-6.3000000000000025,"0-14 years: 15.76% (male 3,571,358/female 3,366,380)
+15-24 years: 9.86% (male 2,226,142/female 2,114,853)
+25-54 years: 44.29% (male 9,579,149/female 9,921,387)
+55-64 years: 13.8% (male 2,605,849/female 3,469,246)
+65 years and over: 16.3% (male 2,409,049/female 4,770,461) (2017 est.)",15.76,9.86,44.29,13.8,16.3,3571358,3366380,2226142,2114853,9579149,9921387,2605849,3469246,2409049,4770461,"0 migrant(s)/1,000 population (2017 est.)",0.0,10.3,14.4,-4.1,"Asia, Europe",72.1,67.4,77.1
+United Arab Emirates,"24 00 N, 54 00 E",24.0,54.0,"6,072,475 (July 2017 est.)
+note: the UN estimated the country's total population was 9,400,145 as of mid-year 2017; immigrants make up more than 88% of the total population, according to UN data (2017)",6072475,"total: 30.3 years
+male: 32.1 years
+female: 25 years (2017 est.)",30.3,32.1,25.0,7.100000000000001,"0-14 years: 21.01% (male 652,718/female 622,850)
+15-24 years: 13.51% (male 487,558/female 332,829)
+25-54 years: 61.14% (male 2,828,731/female 884,233)
+55-64 years: 3.27% (male 147,429/female 51,097)
+65 years and over: 1.07% (male 40,226/female 24,804) (2017 est.)",21.01,13.51,61.14,3.27,1.07,652718,622850,487558,332829,2828731,884233,147429,51097,40226,24804,"10.5 migrant(s)/1,000 population (2017 est.)",10.5,15.1,1.9,13.2,Middle East,77.7,75.0,80.4
+United Kingdom,"54 00 N, 2 00 W",54.0,-2.0,"United Kingdom 65,648,100
+constituent countries: 
+England 55,268,100
+Scotland 5,404,700
+Wales 3,113,200
+Northern Ireland 1,862,100 (2016 est.)",65648100,"total: 40.5 years
+male: 39.3 years
+female: 41.7 years (2017 est.)",40.5,39.3,41.7,-2.4000000000000057,"0-14 years: 17.53% (male 5,819,363/female 5,532,123)
+15-24 years: 11.9% (male 3,938,643/female 3,770,511)
+25-54 years: 40.55% (male 13,387,903/female 12,873,090)
+55-64 years: 11.98% (male 3,843,268/female 3,918,244)
+65 years and over: 18.04% (male 5,246,475/female 6,439,832) (2017 est.)",17.53,11.9,40.55,11.98,18.04,5819363,5532123,3938643,3770511,13387903,12873090,3843268,3918244,5246475,6439832,"2.5 migrant(s)/1,000 population (2017 est.)",2.5,12.1,9.4,2.7,Europe,80.8,78.6,83.1
+United States,"38 00 N, 97 00 W",38.0,-97.0,"326,625,791 (July 2017 est.)",326625791,"total: 38.1 years
+male: 36.8 years
+female: 39.4 years (2017 est.)",38.1,36.8,39.4,-2.6000000000000014,"0-14 years: 18.73% (male 31,255,995/female 29,919,938)
+15-24 years: 13.27% (male 22,213,952/female 21,137,826)
+25-54 years: 39.45% (male 64,528,673/female 64,334,499)
+55-64 years: 12.91% (male 20,357,880/female 21,821,976)
+65 years and over: 15.63% (male 22,678,235/female 28,376,817) (2017 est.)",18.73,13.27,39.45,12.91,15.63,31255995,29919938,22213952,21137826,64528673,64334499,20357880,21821976,22678235,28376817,"3.9 migrant(s)/1,000 population (2017 est.)",3.9,12.5,8.2,4.300000000000002,North America,80.0,77.7,82.2
+Uruguay,"33 00 S, 56 00 W",-33.0,-56.0,"3,360,148 (July 2017 est.)",3360148,"total: 35 years
+male: 33.1 years
+female: 36.7 years (2017 est.)",35.0,33.1,36.7,-3.6000000000000014,"0-14 years: 20.17% (male 344,810/female 332,791)
+15-24 years: 15.69% (male 267,000/female 260,135)
+25-54 years: 39.34% (male 654,036/female 667,780)
+55-64 years: 10.56% (male 167,002/female 187,865)
+65 years and over: 14.25% (male 191,597/female 287,132) (2017 est.)",20.17,15.69,39.34,10.56,14.25,344810,332791,267000,260135,654036,667780,167002,187865,191597,287132,"-0.9 migrant(s)/1,000 population (2017 est.)",-0.9,13.0,9.4,3.6,South America,77.4,74.2,80.6
+Uzbekistan,"41 00 N, 64 00 E",41.0,64.0,"29,748,859 (July 2017 est.)",29748859,"total: 28.6 years
+male: 28 years
+female: 29.2 years (2017 est.)",28.6,28.0,29.2,-1.1999999999999993,"0-14 years: 23.88% (male 3,640,914/female 3,464,304)
+15-24 years: 18.52% (male 2,804,516/female 2,706,399)
+25-54 years: 44.49% (male 6,583,745/female 6,651,261)
+55-64 years: 7.85% (male 1,105,034/female 1,231,714)
+65 years and over: 5.25% (male 667,109/female 893,863) (2017 est.)",23.88,18.52,44.49,7.85,5.25,3640914,3464304,2804516,2706399,6583745,6651261,1105034,1231714,667109,893863,"-2.2 migrant(s)/1,000 population (2017 est.)",-2.2,16.8,5.3,11.5,Asia,74.0,71.0,77.3
+Vanuatu,"16 00 S, 167 00 E",-16.0,167.0,"282,814 (July 2017 est.)",282814,"total: 22 years
+male: 21.6 years
+female: 22.4 years (2017 est.)",22.0,21.6,22.4,-0.7999999999999972,"0-14 years: 35.51% (male 51,261/female 49,157)
+15-24 years: 20.02% (male 28,110/female 28,514)
+25-54 years: 35.06% (male 48,476/female 50,675)
+55-64 years: 5.42% (male 7,646/female 7,677)
+65 years and over: 3.99% (male 5,713/female 5,585) (2017 est.)",35.51,20.02,35.06,5.42,3.99,51261,49157,28110,28514,48476,50675,7646,7677,5713,5585,"-1.4 migrant(s)/1,000 population (2017 est.)",-1.4,24.0,4.0,20.0,Oceania,73.7,72.1,75.4
+Venezuela,"8 00 N, 66 00 W",8.0,-66.0,"31,304,016 (July 2017 est.)",31304016,"total: 28.3 years
+male: 27.6 years
+female: 29 years (2017 est.)",28.3,27.6,29.0,-1.3999999999999986,"0-14 years: 27.36% (male 4,390,773/female 4,175,080)
+15-24 years: 17.03% (male 2,707,934/female 2,624,031)
+25-54 years: 40.53% (male 6,289,673/female 6,398,217)
+55-64 years: 7.98% (male 1,198,525/female 1,299,498)
+65 years and over: 7.09% (male 1,003,534/female 1,216,751) (2017 est.)",27.36,17.03,40.53,7.98,7.09,4390773,4175080,2707934,2624031,6289673,6398217,1198525,1299498,1003534,1216751,"-1.2 migrant(s)/1,000 population (2017 est.)",-1.2,18.8,5.3,13.5,South America,76.0,73.0,79.1
+Vietnam,"16 10 N, 107 50 E",16.166666666666668,107.83333333333331,"96,160,163 (July 2017 est.)",96160163,"total: 30.5 years
+male: 29.4 years
+female: 31.7 years (2017 est.)",30.5,29.4,31.7,-2.3000000000000007,"0-14 years: 23.55% (male 11,909,326/female 10,735,324)
+15-24 years: 16.23% (male 8,098,019/female 7,509,021)
+25-54 years: 45.56% (male 22,087,095/female 21,719,615)
+55-64 years: 8.55% (male 3,798,928/female 4,419,837)
+65 years and over: 6.12% (male 2,281,923/female 3,601,075) (2017 est.)",23.55,16.23,45.56,8.55,6.12,11909326,10735324,8098019,7509021,22087095,21719615,3798928,4419837,2281923,3601075,"-0.3 migrant(s)/1,000 population (2017 est.)",-0.3,15.5,5.9,9.6,Southeast Asia,73.7,71.2,76.4
+Virgin Islands,"18 20 N, 64 50 W",18.33333333333333,-64.83333333333333,"107,268 (July 2017 est.)",107268,"total: 41 years
+male: 39.9 years
+female: 41.9 years (2017 est.)",41.0,39.9,41.9,-2.0,"0-14 years: 20.41% (male 11,220/female 10,671)
+15-24 years: 11.19% (male 5,853/female 6,154)
+25-54 years: 37.07% (male 18,587/female 21,182)
+55-64 years: 13.78% (male 6,967/female 7,812)
+65 years and over: 17.55% (male 8,618/female 10,204) (2017 est.)",20.41,11.19,37.07,13.78,17.55,11220,10671,5853,6154,18587,21182,6967,7812,8618,10204,"-7.5 migrant(s)/1,000 population (2017 est.)",-7.5,12.8,7.8,5.000000000000001,Central America and the Caribbean,79.4,76.2,82.8
+Wallis and Futuna,"13 18 S, 176 12 W",-13.3,-176.2,"15,714 (July 2017 est.)",15714,"total: 32.2 years
+male: 31.3 years
+female: 33.4 years (2017 est.)",32.2,31.3,33.4,-2.099999999999998,"0-14 years: 21.83% (male 1,789/female 1,641)
+15-24 years: 16.3% (male 1,358/female 1,203)
+25-54 years: 42.08% (male 3,336/female 3,276)
+55-64 years: 9.79% (male 744/female 794)
+65 years and over: 10.01% (male 752/female 821) (2017 est.)",21.83,16.3,42.08,9.79,10.01,1789,1641,1358,1203,3336,3276,744,794,752,821,"-4.7 migrant(s)/1,000 population
+note: there has been steady emigration from Wallis and Futuna to New Caledonia (2017 est.)",-4.7,13.2,5.4,7.799999999999999,Oceania,79.8,76.8,83.0
+West Bank,"32 00 N, 35 15 E",32.0,35.25,"2,747,943 (July 2017 est.)
+note: approximately 391,000 Israeli settlers live in the West Bank (2016); approximately 201,200 Israeli settlers live in East Jerusalem (2014)",2747943,"total: 21.1 years
+male: 20.9 years
+female: 21.3 years (2017 est.)",21.1,20.9,21.3,-0.4000000000000021,"0-14 years: 36.5% (male 514,691/female 488,233)
+15-24 years: 21.37% (male 299,859/female 287,367)
+25-54 years: 34.1% (male 475,860/female 461,252)
+55-64 years: 4.54% (male 64,275/female 60,507)
+65 years and over: 3.49% (male 43,060/female 52,839) (2017 est.)",36.5,21.37,34.1,4.54,3.49,514691,488233,299859,287367,475860,461252,64275,60507,43060,52839,"-4.5 migrant(s)/1,000 population (2017 est.)",-4.5,26.3,3.5,22.8,Middle East,75.2,73.2,77.4
+Yemen,"15 00 N, 48 00 E",15.0,48.0,"28,036,829 (July 2017 est.)",28036829,"total: 19.5 years
+male: 19.3 years
+female: 19.6 years (2017 est.)",19.5,19.3,19.6,-0.3000000000000007,"0-14 years: 39.83% (male 5,681,084/female 5,485,959)
+15-24 years: 21.21% (male 3,015,232/female 2,930,329)
+25-54 years: 32.27% (male 4,625,967/female 4,422,418)
+55-64 years: 3.94% (male 506,759/female 598,973)
+65 years and over: 2.75% (male 353,953/female 416,155) (2017 est.)",39.83,21.21,32.27,3.94,2.75,5681084,5485959,3015232,2930329,4625967,4422418,506759,598973,353953,416155,"0.4 migrant(s)/1,000 population (2017 est.)",0.4,28.4,6.0,22.4,Middle East,65.9,63.7,68.2
+Zambia,"15 00 S, 30 00 E",-15.0,30.0,"15,972 million
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",15972,"total: 16.8 years
+male: 16.6 years
+female: 16.9 years (2017 est.)",16.8,16.6,16.9,-0.2999999999999972,"0-14 years: 46.03% (male 3,693,255/female 3,657,890)
+15-24 years: 20% (male 1,595,628/female 1,598,065)
+25-54 years: 28.72% (male 2,310,961/female 2,276,018)
+55-64 years: 2.93% (male 217,954/female 250,134)
+65 years and over: 2.33% (male 162,605/female 209,490) (2017 est.)",46.03,20.0,28.72,2.93,2.33,3693255,3657890,1595628,1598065,2310961,2276018,217954,250134,162605,209490,"0 migrant(s)/1,000 population (2017 est.)",0.0,41.5,12.2,29.3,Africa,52.7,51.1,54.4
+Zimbabwe,"20 00 S, 30 00 E",-20.0,30.0,"13,805,084
+note: estimates for this country explicitly take into account the effects of excess mortality due to AIDS; this can result in lower life expectancy, higher infant mortality, higher death rates, lower population growth rates, and changes in the distribution of population by age and sex than would otherwise be expected (July 2017 est.)",13805084,"total: 20 years
+male: 19.6 years
+female: 20.4 years (2017 est.)",20.0,19.6,20.4,-0.7999999999999972,"0-14 years: 38.9% (male 2,658,563/female 2,711,017)
+15-24 years: 20.47% (male 1,383,337/female 1,442,738)
+25-54 years: 31.9% (male 2,207,012/female 2,196,996)
+55-64 years: 4.27% (male 233,771/female 355,738)
+65 years and over: 4.46% (male 251,968/female 363,944) (2017 est.)",38.9,20.47,31.9,4.27,4.46,2658563,2711017,1383337,1442738,2207012,2196996,233771,355738,251968,363944,"-8.5 migrant(s)/1,000 population (2017 est.)",-8.5,34.2,10.2,24.000000000000004,Africa,60.4,58.3,62.5
