@@ -4,6 +4,10 @@ import dash_html_components as html
 from dash.dependencies import Input, Output
 import plotly.graph_objs as go
 import pandas as pd
+import logging
+
+logging.basicConfig(level=logging.INFO,
+                    format='%(asctime)s==%(funcName)s==%(message)s')
 
 life_exp_df = pd.read_csv('data/country_data_master.csv',
                           usecols=['country', 'lat', 'lon', 'median_age_total',
@@ -91,7 +95,8 @@ app.layout = html.Div([
 
 @app.callback(Output('life_exp_scatter', 'figure'),
              [Input('countries', 'value'), Input('region', 'value')])
-def color_countries(countries, region):
+def color_countries_and_region(countries, region):
+    logging.info(msg=locals())
     df = life_exp_df[life_exp_df['country'].isin(countries)]
     df_region = life_exp_df[life_exp_df['map_ref'] == region]
     return {'data': [go.Scatter(x=life_exp_df['country'],
