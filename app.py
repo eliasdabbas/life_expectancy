@@ -31,7 +31,7 @@ app.layout = html.Div([
                          multi=True,
                          value=tuple(),
                          options=[{'label': c, 'value': c}
-                                  for c in life_exp_df['country']]),
+                                  for c in sorted(life_exp_df['country'])]),
             ], style={'width': '35%', 'display': 'inline-block', 'background-color': '#eeeeee'}),
             html.Div([
                     dcc.Dropdown(id='region',
