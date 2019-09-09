@@ -78,19 +78,18 @@ app.layout = html.Div([
                                            'showframe': False,
                                            'coastlinecolor': '#cccccc'})
               }),
-    html.A('@eliasdabbas', href='https://www.twitter.com/eliasdabbas'), 
-    html.P(),
-    html.Content('Data: CIA World Factobook  '),
-    html.A('Life Expectancy at Birth in Years - 2017', href='https://www.cia.gov/library/publications/the-world-factbook/fields/2102.html'),
-    html.Br(),
-    html.Content('  Code: '),
-    html.A('github.com/eliasdabbas/life_expectancy', href='https://github.com/eliasdabbas/life_expectancy'), html.Br(), html.Br(),
-    html.Content('This entry contains the average number of years to be lived by a group of people born in the same year, '
-                 'if mortality at each age remains constant in the future. Life expectancy at birth is also a measure of '
-                 'overall quality of life in a country and summarizes the mortality at all ages. It can also be thought of '
-                 'as indicating the potential return on investment in human capital and is necessary for the calculation of '
-                 'various actuarial measures.')
-        
+    # html.A('@eliasdabbas', href='https://www.twitter.com/eliasdabbas'),
+    # html.P(),
+    # html.Content('Data: CIA World Factobook  '),
+    # html.A('Life Expectancy at Birth in Years - 2017', href='https://www.cia.gov/library/publications/the-world-factbook/fields/2102.html'),
+    # html.Br(),
+    # html.Content('  Code: '),
+    # html.A('github.com/eliasdabbas/life_expectancy', href='https://github.com/eliasdabbas/life_expectancy'), html.Br(), html.Br(),
+    # html.Content('This entry contains the average number of years to be lived by a group of people born in the same year, '
+    #              'if mortality at each age remains constant in the future. Life expectancy at birth is also a measure of '
+    #              'overall quality of life in a country and summarizes the mortality at all ages. It can also be thought of '
+    #              'as indicating the potential return on investment in human capital and is necessary for the calculation of '
+    #              'various actuarial measures.')
 ], style={'background-color': '#eeeeee'})
 
 @app.callback(Output('life_exp_scatter', 'figure'),
